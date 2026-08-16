@@ -9,25 +9,19 @@
 <br/><br/>
 
 <a href="https://bhoomikabc.vercel.app/">
-  <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="32" height="32" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/-%F0%9F%8C%90-6D28D9?style=for-the-badge" width="55" alt="Portfolio"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-%F0%9D%95%83-0A66C2?style=for-the-badge" width="55" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:bhoomikagowda518@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
+  <img src="https://img.shields.io/badge/-%E2%9C%89-EA4335?style=for-the-badge" width="55" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://github.com/bhoomikagowda518-ops">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-%F0%9F%90%99-181717?style=for-the-badge" width="55" alt="GitHub"/>
 </a>
 
 <br/><br/>
