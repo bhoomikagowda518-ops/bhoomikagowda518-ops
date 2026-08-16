@@ -245,18 +245,6 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `07 / GITHUB TROPHIES`
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhoomikagowda518-ops&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## `08 / CONTRIBUTION ACTIVITY`
 
 <br/>
