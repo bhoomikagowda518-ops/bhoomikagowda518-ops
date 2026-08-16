@@ -227,25 +227,28 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `06 / GITHUB ANALYTICS`
+## `06 / GITHUB ACTIVITY`
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9"
+  width="48%"
+  alt="GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Streak"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+  width="48%"
+  alt="Top Languages"
+/>
 
 </div>
-
 ---
 
 <div align="center">
 
-## `08 / CONTRIBUTION ACTIVITY`
+## `07 / CONTRIBUTION ACTIVITY`
 
 <br/>
 
@@ -257,7 +260,7 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `09 / CONTRIBUTION SNAKE`
+## `08 / CONTRIBUTION SNAKE`
 
 <br/>
 
@@ -271,7 +274,7 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## 10 / CURRENT FOCUS
+## 09 / CURRENT FOCUS
 
 </div>
 
@@ -298,7 +301,7 @@ Exploring:
 
 <div align="center">
 
-## 11 / CONNECT
+## 10 / CONNECT
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
