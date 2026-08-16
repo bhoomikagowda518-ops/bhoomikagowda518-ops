@@ -277,8 +277,6 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 ## `10 / CURRENT FOCUS`
 
-</div>
-
 ```yaml
 Learning:
   - Security Engineering
@@ -297,7 +295,6 @@ Exploring:
   - Log Analysis
   - Adversary Simulation
   - Security Automation
-
 <div align="center">
 
 ## `11 / CONNECT`
