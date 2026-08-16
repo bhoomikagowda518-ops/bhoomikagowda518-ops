@@ -275,9 +275,11 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `10 / CURRENT FOCUS`
+## 10 / CURRENT FOCUS
 
-```yaml
+</div>
+
+yaml
 Learning:
   - Security Engineering
   - Linux & Networking
@@ -295,34 +297,38 @@ Exploring:
   - Log Analysis
   - Adversary Simulation
   - Security Automation
+
+
+---
+
 <div align="center">
 
-## `11 / CONNECT`
-
-<br/>
+## 11 / CONNECT
 
 <a href="mailto:bhoomikagowda518@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-  <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/bhoomikagowda518-ops">
-  <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://bhoomikabc.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+</div>
 
-Build systems. Understand them. Make them better.
+---
 
-<br/><br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
+### Build systems. Understand them. Make them better.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
 
 </div>
