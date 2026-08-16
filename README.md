@@ -12,6 +12,8 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/bhoomikabc2008"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
 &nbsp;
+<a href="https://www.instagram.com/bhoomika_bc_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
+&nbsp;
 <a href="mailto:bhoomikagowda518@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
 &nbsp;
 <a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
@@ -23,8 +25,6 @@
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </div>
-
-
 
 ---
 
