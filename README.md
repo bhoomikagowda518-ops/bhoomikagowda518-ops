@@ -40,9 +40,9 @@
 
 </div>
 
-Computer Science Engineering student specializing in **Cybersecurity**, focused on understanding security through implementation rather than theory alone.
+Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
 
-Currently building practical projects around **SIEM, security monitoring, detection engineering, Linux, networking, and cryptography**.
+Currently exploring and building in **SIEM, security monitoring, detection engineering, Linux, networking, and cryptography** through hands-on projects and controlled security labs.
 
 My approach:
 
@@ -50,18 +50,14 @@ My approach:
 
 ### Education
 
-**B.E. Computer Science & Engineering — Cybersecurity**
+**B.E. Computer Science & Engineering — Cybersecurity**  
+Sri Siddhartha Institute of Technology · **2029**
 
-Sri Siddhartha Institute of Technology
+**CGPA:** `9.69 / 10.00` — 1st Year
 
-**Expected Graduation:** 2029
-
-**Current Academic Performance:** `9.69 CGPA — 1st Year`
-
-### Open To
+### Currently Looking For
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
-
 ---
 
 <div align="center">
