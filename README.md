@@ -170,58 +170,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-### Engineering Scope
-
-| Area | Implementation |
-| :--- | :--- |
-| Stack | Python · Security Monitoring · Detection Engineering |
-| Environment | Controlled cybersecurity lab |
-| Pipeline | Collection → Parsing → Normalization → Storage → Detection → Alerting |
-| Detection | Rule-based security event detection |
-| Security | MITRE ATT&CK-oriented detection mapping |
-| Validation | Controlled attack simulation |
-
-### Core Components
-
-- Log collection and ingestion
-- Log parsing and normalization
-- Centralized security-event storage
-- Searchable logs
-- Detection rules
-- Alert generation
-- Security dashboards
-- MITRE ATT&CK mapping
-- Controlled attack simulation
-- Detection validation
-
-**Status:** `Active Development`
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🔐 Text Encryption Tool — Completed</b></summary>
-
-<br/>
-
-A Python + Streamlit security application built to explore practical cryptography, hashing, encoding, verification, and key management.
-
-### Engineering Scope
-
-| Area | Implementation |
-| :--- | :--- |
-| Stack | Python · Streamlit · Cryptography · PyCryptodome |
-| Cryptography | AES-GCM · Fernet · Caesar · ROT13 · Vigenère |
-| Hashing | SHA-256 · bcrypt |
-| Encoding | Base64 · Hex |
-| Security | AES key management · password verification · file hashing |
-| Interface | Streamlit web interface |
-
-**Status:** `Completed`
-
-</details>
-
 ---
 
 <div align="center">
