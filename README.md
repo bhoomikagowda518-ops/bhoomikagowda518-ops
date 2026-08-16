@@ -42,11 +42,21 @@
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on understanding security through implementation rather than theory alone.
 
-Currently working on security systems and practical projects around **SIEM, security monitoring, detection engineering, Linux, networking, and cryptography**.
+Currently building practical projects around **SIEM, security monitoring, detection engineering, Linux, networking, and cryptography**.
 
-My approach is:
+My approach:
 
 **Learn → Build → Break → Analyze → Improve**
+
+### Education
+
+**B.E. Computer Science & Engineering — Cybersecurity**
+
+Sri Siddhartha Institute of Technology
+
+**Expected Graduation:** 2029
+
+**Current Academic Performance:** `10.00 CGPA — 1st Semester`
 
 ### Open To
 
@@ -69,7 +79,7 @@ My approach is:
 ### Security & Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash" alt="Security and Systems"/>
+<img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux"/>
 &nbsp;
@@ -98,21 +108,7 @@ My approach is:
 
 <div align="center">
 
-## `03 / AI & ML EXPOSURE`
-
-</div>
-
-| Domain                  |    Level   | Details                                                               |
-| :---------------------- | :--------: | :-------------------------------------------------------------------- |
-| Artificial Intelligence | Foundation | Introductory understanding through structured coursework              |
-| AI Concepts             | Foundation | Exploring core AI concepts and applications                           |
-| Security + AI           |  Exploring | Interested in the intersection of automation, detection, and security |
-
----
-
-<div align="center">
-
-## `04 / FEATURED PROJECTS`
+## `03 / FEATURED PROJECTS`
 
 </div>
 
@@ -125,30 +121,29 @@ A hands-on SIEM project designed to understand the complete security monitoring 
 
 ### Engineering Scope
 
-| Area       | Implementation                                                        |
-| :--------- | :-------------------------------------------------------------------- |
-| Stack      | Python · Security Monitoring · Detection Engineering                  |
-| Scale      | Controlled cybersecurity lab                                          |
-| Pipeline   | Collection → Parsing → Normalization → Storage → Detection → Alerting |
-| Detection  | Rule-based security event detection                                   |
-| Security   | MITRE ATT&CK-oriented detection mapping                               |
-| Validation | Controlled attack simulation                                          |
-| Repository | Coming soon                                                           |
+| Area | Implementation |
+| :--- | :--- |
+| Stack | Python · Security Monitoring · Detection Engineering |
+| Environment | Controlled cybersecurity lab |
+| Pipeline | Collection → Parsing → Normalization → Storage → Detection → Alerting |
+| Detection | Rule-based security event detection |
+| Security | MITRE ATT&CK-oriented detection mapping |
+| Validation | Controlled attack simulation |
 
 ### Core Components
 
-* Log collection and ingestion
-* Log parsing and normalization
-* Centralized security-event storage
-* Searchable logs
-* Detection rules
-* Alert generation
-* Security dashboards
-* MITRE ATT&CK mapping
-* Controlled attack simulation
-* Detection validation
+- Log collection and ingestion
+- Log parsing and normalization
+- Centralized security-event storage
+- Searchable logs
+- Detection rules
+- Alert generation
+- Security dashboards
+- MITRE ATT&CK mapping
+- Controlled attack simulation
+- Detection validation
 
-**Status:** Active development
+**Status:** `Active Development`
 
 </details>
 
@@ -163,17 +158,16 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 ### Engineering Scope
 
-| Area         | Implementation                                            |
-| :----------- | :-------------------------------------------------------- |
-| Stack        | Python · Streamlit · Cryptography · PyCryptodome          |
-| Cryptography | AES-GCM · Fernet · Caesar · ROT13 · Vigenère              |
-| Hashing      | SHA-256 · bcrypt                                          |
-| Encoding     | Base64 · Hex                                              |
-| Security     | AES key management · password verification · file hashing |
-| Interface    | Streamlit web interface                                   |
-| Repository   | Coming soon                                               |
+| Area | Implementation |
+| :--- | :--- |
+| Stack | Python · Streamlit · Cryptography · PyCryptodome |
+| Cryptography | AES-GCM · Fernet · Caesar · ROT13 · Vigenère |
+| Hashing | SHA-256 · bcrypt |
+| Encoding | Base64 · Hex |
+| Security | AES key management · password verification · file hashing |
+| Interface | Streamlit web interface |
 
-**Status:** Completed
+**Status:** `Completed`
 
 </details>
 
@@ -181,56 +175,7 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `05 / EXPERIENCE`
-
-</div>
-
-### Cybersecurity Engineering — Independent Projects
-
-`2025 — Present`
-
-Developing practical cybersecurity skills through self-directed engineering projects, security labs, programming, and experimentation.
-
-* Building a functional SIEM platform in a controlled environment
-* Implementing cryptographic concepts through Python
-* Developing Linux and networking fundamentals
-* Studying security monitoring and detection engineering
-* Practicing cybersecurity through hands-on labs and CTF-style environments
-
-`Python` `Linux` `Networking` `SIEM` `Detection Engineering` `Cryptography`
-
----
-
-<div align="center">
-
-## `06 / ACHIEVEMENTS`
-
-</div>
-
-<table align="center">
-<tr>
-<th>Recognition</th>
-<th>Details</th>
-</tr>
-<tr>
-<td align="center">Academic</td>
-<td>10.00 CGPA in 1st Semester</td>
-</tr>
-<tr>
-<td align="center">Cybersecurity</td>
-<td>Hands-on SIEM project in active development</td>
-</tr>
-<tr>
-<td align="center">Engineering</td>
-<td>Built and completed a practical cryptography application</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `07 / CERTIFICATIONS & LEARNING`
+## `04 / CERTIFICATIONS & LEARNING`
 
 </div>
 
@@ -254,7 +199,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `08 / CODING & PROFESSIONAL PROFILES`
+## `05 / CODING & PROFESSIONAL PROFILES`
 
 <br/>
 
@@ -276,7 +221,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `09 / GITHUB ANALYTICS`
+## `06 / GITHUB ANALYTICS`
 
 <br/>
 
@@ -294,7 +239,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `10 / GITHUB TROPHIES`
+## `07 / GITHUB TROPHIES`
 
 <br/>
 
@@ -306,7 +251,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `11 / CONTRIBUTION ACTIVITY`
+## `08 / CONTRIBUTION ACTIVITY`
 
 <br/>
 
@@ -318,7 +263,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `12 / CONTRIBUTION SNAKE`
+## `09 / CONTRIBUTION SNAKE`
 
 <br/>
 
@@ -330,7 +275,7 @@ Developing practical cybersecurity skills through self-directed engineering proj
 
 <div align="center">
 
-## `13 / CURRENT FOCUS`
+## `10 / CURRENT FOCUS`
 
 </div>
 
@@ -352,38 +297,34 @@ Exploring:
   - Log Analysis
   - Adversary Simulation
   - Security Automation
-```
-
----
-
 <div align="center">
 
-## `14 / CONNECT`
+## `11 / CONNECT`
+
+<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+Build systems. Understand them. Make them better.
 
-<div align="center">
+<br/><br/>
 
-### Build systems. Understand them. Make them better.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
