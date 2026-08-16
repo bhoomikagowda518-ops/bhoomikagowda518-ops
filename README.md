@@ -201,6 +201,8 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
 
+---
+
 <div align="center">
 
 ## `05 / CODING & PROFESSIONAL PROFILES`
