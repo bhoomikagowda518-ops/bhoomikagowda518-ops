@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Bhoomika B C"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=58&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Bhoomika B C"/>
 
 <br/>
 
@@ -9,36 +9,37 @@
 <br/><br/>
 
 <a href="https://bhoomikabc.vercel.app/">
-  <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="36" height="36" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:bhoomikagowda518@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/bhoomikagowda518-ops">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
 
 &nbsp;
 
-<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?label=FOLLOWERS&color=6D28D9&style=flat-square" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </div>
+
 
 ---
 
