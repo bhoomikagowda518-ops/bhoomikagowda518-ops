@@ -110,14 +110,65 @@ Sri Siddhartha Institute of Technology
 
 ## `03 / FEATURED PROJECTS`
 
-</div>
+<br/>
 
-<details>
-<summary><b>🛡️ Enterprise SIEM Platform — In Development</b></summary>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Enterprise SIEM Platform</h3>
+
+<p>
+A security monitoring platform built to understand the complete SIEM lifecycle — from log collection and normalization to detection and alerting.
+</p>
+
+<p>
+<b>Focus:</b><br/>
+SIEM · Security Monitoring · Detection Engineering · MITRE ATT&CK
+</p>
+
+<p>
+<b>Status:</b> 🚧 In Development
+</p>
 
 <br/>
 
-A hands-on SIEM project designed to understand the complete security monitoring lifecycle inside a controlled lab environment.
+<a href="YOUR_SIEM_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Enterprise SIEM Repository"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔐 Text Encryption Tool</h3>
+
+<p>
+A Python and Streamlit security application exploring encryption, hashing, encoding, password verification, file hashing, and secure key management.
+</p>
+
+<p>
+<b>Focus:</b><br/>
+Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
+</p>
+
+<p>
+<b>Status:</b> ✅ Completed
+</p>
+
+<br/>
+
+<a href="YOUR_ENCRYPTION_REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Text Encryption Tool Repository"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ### Engineering Scope
 
