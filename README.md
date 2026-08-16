@@ -68,13 +68,15 @@ Sri Siddhartha Institute of Technology
 
 ## `02 / TECH STACK`
 
-</div>
+<br/>
 
 ### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript" alt="Languages"/>
 </p>
+
+<br/>
 
 ### Security & Systems
 
@@ -86,7 +88,17 @@ Sri Siddhartha Institute of Technology
 <img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware"/>
 </p>
 
-`SIEM` · `Security Monitoring` · `Log Analysis` · `Detection Engineering` · `MITRE ATT&CK` · `Networking` · `Cryptography`
+<p>
+<code>SIEM</code> ·
+<code>Security Monitoring</code> ·
+<code>Log Analysis</code> ·
+<code>Detection Engineering</code> ·
+<code>MITRE ATT&CK</code> ·
+<code>Networking</code> ·
+<code>Cryptography</code>
+</p>
+
+<br/>
 
 ### Web & Application Development
 
@@ -96,13 +108,21 @@ Sri Siddhartha Institute of Technology
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
+<br/>
+
 ### Development & Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
 </p>
 
-`WSL` · `VMware Workstation` · `Kali Linux`
+<p>
+<code>WSL</code> ·
+<code>VMware Workstation</code> ·
+<code>Kali Linux</code>
+</p>
+
+</div>
 
 ---
 
