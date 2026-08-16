@@ -297,6 +297,7 @@ Exploring:
   - Log Analysis
   - Adversary Simulation
   - Security Automation
+
 <div align="center">
 
 ## `11 / CONNECT`
