@@ -1,36 +1,25 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
-
-<br/><br/>
+<p align="center">
 
 <a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/6D28D9" width="32" height="32" alt="Portfolio"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" height="32" alt="GitHub"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?label=FOLLOWERS&color=6D28D9&style=flat-square" alt="Followers"/>
-
-</div>
+</p>
 
 ---
 
