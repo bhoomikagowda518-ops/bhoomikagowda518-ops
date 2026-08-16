@@ -1,34 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=210&section=header&text=BHOOMIKA%20B%20C&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20ENGINEERING%20STUDENT&descAlignY=58&descSize=17&descColor=C4B5FD&animation=fadeIn" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+practical+security+systems;SIEM+%7C+Detection+Engineering+%7C+Linux;Learning+cybersecurity+through+hands-on+work" alt="Typing SVG"/>
 
-<br/><br/>
+<br><br>
 
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://github.com/bhoomikagowda518-ops">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="https://bhoomikabc.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?label=FOLLOWERS&color=6D28D9&style=flat-square" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?label=FOLLOWERS&style=flat-square&color=312E81"/>
 
 </div>
 
@@ -36,354 +35,181 @@
 
 <div align="center">
 
-## `01 / ABOUT`
+## `CYBERSECURITY`
+
+**CSE • Cybersecurity**
+
+Security-focused engineering student interested in understanding how systems are built, monitored, attacked, and defended.
+
+`SIEM` · `Detection Engineering` · `Linux` · `Networking` · `Cryptography` · `Security Labs`
 
 </div>
-
-Computer Science Engineering student specializing in **Cybersecurity**, focused on understanding security through implementation rather than theory alone.
-
-Currently working on security systems and practical projects around **SIEM, security monitoring, detection engineering, Linux, networking, and cryptography**.
-
-My approach is:
-
-**Learn → Build → Break → Analyze → Improve**
-
-### Open To
-
-`Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
 ---
 
+## `01 — TECHNICAL STACK`
+
 <div align="center">
-
-## `02 / TECH STACK`
-
-</div>
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript" alt="Languages"/>
-</p>
 
 ### Security & Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" alt="Security and Systems"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,git,github,vscode&theme=dark" />
 
-`SIEM` · `Security Monitoring` · `Log Analysis` · `Detection Engineering` · `MITRE ATT&CK` · `Networking` · `Cryptography`
+<br><br>
 
-### Web & Application Development
+`Linux` `Kali Linux` `WSL` `VMware` `Networking` `Security Monitoring` `SIEM` `Log Analysis` `Cryptography`
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Web Development"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
-</p>
+<br><br>
 
-### Development & Tooling
+### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript&theme=dark" />
 
-`WSL` · `VMware Workstation` · `Kali Linux`
+<br><br>
 
----
+### Web & Development
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
 
-## `03 / AI & ML EXPOSURE`
+<br><br>
 
-</div>
+### Tools
 
-| Domain                  |    Level   | Details                                                               |
-| :---------------------- | :--------: | :-------------------------------------------------------------------- |
-| Artificial Intelligence | Foundation | Introductory understanding through structured coursework              |
-| AI Concepts             | Foundation | Exploring core AI concepts and applications                           |
-| Security + AI           |  Exploring | Interested in the intersection of automation, detection, and security |
-
----
-
-<div align="center">
-
-## `04 / FEATURED PROJECTS`
-
-</div>
-
-<details>
-<summary><b>🛡️ Enterprise SIEM Platform — In Development</b></summary>
-
-<br/>
-
-A hands-on SIEM project designed to understand the complete security monitoring lifecycle inside a controlled lab environment.
-
-### Engineering Scope
-
-| Area       | Implementation                                                        |
-| :--------- | :-------------------------------------------------------------------- |
-| Stack      | Python · Security Monitoring · Detection Engineering                  |
-| Scale      | Controlled cybersecurity lab                                          |
-| Pipeline   | Collection → Parsing → Normalization → Storage → Detection → Alerting |
-| Detection  | Rule-based security event detection                                   |
-| Security   | MITRE ATT&CK-oriented detection mapping                               |
-| Validation | Controlled attack simulation                                          |
-| Repository | Coming soon                                                           |
-
-### Core Components
-
-* Log collection and ingestion
-* Log parsing and normalization
-* Centralized security-event storage
-* Searchable logs
-* Detection rules
-* Alert generation
-* Security dashboards
-* MITRE ATT&CK mapping
-* Controlled attack simulation
-* Detection validation
-
-**Status:** Active development
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🔐 Text Encryption Tool — Completed</b></summary>
-
-<br/>
-
-A Python + Streamlit security application built to explore practical cryptography, hashing, encoding, verification, and key management.
-
-### Engineering Scope
-
-| Area         | Implementation                                            |
-| :----------- | :-------------------------------------------------------- |
-| Stack        | Python · Streamlit · Cryptography · PyCryptodome          |
-| Cryptography | AES-GCM · Fernet · Caesar · ROT13 · Vigenère              |
-| Hashing      | SHA-256 · bcrypt                                          |
-| Encoding     | Base64 · Hex                                              |
-| Security     | AES key management · password verification · file hashing |
-| Interface    | Streamlit web interface                                   |
-| Repository   | Coming soon                                               |
-
-**Status:** Completed
-
-</details>
-
----
-
-<div align="center">
-
-## `05 / EXPERIENCE`
-
-</div>
-
-### Cybersecurity Engineering — Independent Projects
-
-`2025 — Present`
-
-Developing practical cybersecurity skills through self-directed engineering projects, security labs, programming, and experimentation.
-
-* Building a functional SIEM platform in a controlled environment
-* Implementing cryptographic concepts through Python
-* Developing Linux and networking fundamentals
-* Studying security monitoring and detection engineering
-* Practicing cybersecurity through hands-on labs and CTF-style environments
-
-`Python` `Linux` `Networking` `SIEM` `Detection Engineering` `Cryptography`
-
----
-
-<div align="center">
-
-## `06 / ACHIEVEMENTS`
-
-</div>
-
-<table align="center">
-<tr>
-<th>Recognition</th>
-<th>Details</th>
-</tr>
-<tr>
-<td align="center">Academic</td>
-<td>10.00 CGPA in 1st Semester</td>
-</tr>
-<tr>
-<td align="center">Cybersecurity</td>
-<td>Hands-on SIEM project in active development</td>
-</tr>
-<tr>
-<td align="center">Engineering</td>
-<td>Built and completed a practical cryptography application</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `07 / CERTIFICATIONS & LEARNING`
-
-</div>
-
-### IBM
-
-<img src="https://img.shields.io/badge/IBM-Python%20101-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python 101"/>
-
-### Cisco Networking Academy
-
-<img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
-
-### Google
-
-<img src="https://img.shields.io/badge/GOOGLE-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google Introduction to AI"/>
-
-### IEEE SSIT WIE-AG
-
-<img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Workshop"/>
-
----
-
-<div align="center">
-
-## `08 / CODING & PROFESSIONAL PROFILES`
-
-<br/>
-
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-bhoomikabc.vercel.app-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## `09 / GITHUB ANALYTICS`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" width="48%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
+## `02 — FLAGSHIP PROJECT`
 
 <div align="center">
 
-## `10 / GITHUB TROPHIES`
+# 🛡️ Enterprise SIEM Platform
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhoomikagowda518-ops&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+`Security Monitoring` · `Detection Engineering` · `Python`
 
 </div>
 
----
+A hands-on SIEM project being built to understand the complete security monitoring lifecycle inside a controlled lab.
 
+```text
+COLLECT
+   ↓
+PARSE
+   ↓
+NORMALIZE
+   ↓
+STORE
+   ↓
+DETECT
+   ↓
+ALERT
+   ↓
+INVESTIGATE
+Layer	Focus
+Collection	Ingest security logs from lab systems
+Parsing	Convert raw logs into structured events
+Normalization	Create a consistent event schema
+Storage	Centralized searchable security data
+Detection	Identify suspicious activity
+Alerting	Generate actionable security alerts
+Investigation	Analyze events and understand attack behavior
+MITRE ATT&CK	Map detections to adversary techniques
+Validation	Test detections using controlled lab activity
+
+Status: IN DEVELOPMENT
+
+Goal: understand how security monitoring works beyond simply building a dashboard.
+03 — SECURITY PROJECT
 <div align="center">
+🔐 Text Encryption Tool
 
-## `11 / CONTRIBUTION ACTIVITY`
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
+Python · Streamlit · Cryptography
 
 </div>
 
----
+A practical security application built to explore encryption, hashing, encoding, verification, and key management.
 
+Implemented
+
+Caesar Cipher · ROT13 · Vigenère Cipher · Base64 · Hex
+
+SHA-256 · bcrypt · File Hashing
+
+Fernet · AES-GCM · Key Management
+
+Status: COMPLETED
+
+04 — SECURITY DIRECTION
 <div align="center">
-
-## `12 / CONTRIBUTION SNAKE`
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+PYTHON
+   ↓
+LINUX + NETWORKING
+   ↓
+SECURITY FUNDAMENTALS
+   ↓
+SIEM + SECURITY MONITORING
+   ↓
+DETECTION ENGINEERING
+   ↓
+OFFENSIVE SECURITY FUNDAMENTALS
 </div>
 
----
+Currently developing stronger foundations in:
 
+Python · Linux · Networking · Log Analysis · Detection Logic · MITRE ATT&CK · Security Labs
+
+05 — LEARNING JOURNEY
 <div align="center">
-
-## `13 / CURRENT FOCUS`
-
+Platform	Learning
+IBM	Python 101
+Cisco Networking Academy	Introduction to Cybersecurity
+Google	Introduction to AI
+IEEE SSIT WIE-AG	LinkedIn Workshop
 </div>
+06 — GITHUB ANALYTICS
+<div align="center"> <a href="https://github.com/bhoomikagowda518-ops"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9"/> </a> <a href="https://github.com/bhoomikagowda518-ops"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/> </a>
 
-```yaml
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=312E81&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/> </div>
+07 — GITHUB TROPHIES
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=bhoomikagowda518-ops&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6" width="90%"/> </div>
+08 — CONTRIBUTION ACTIVITY
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=Bhoomika's%20Contribution%20Activity" width="100%"/> </div>
+09 — CONTRIBUTION SNAKE
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-snake.svg"> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-snake.svg"> </picture> </div>
+10 — CURRENT FOCUS
+<div align="center">
 Learning:
-  - Security Engineering
-  - Linux & Networking
+  - Python
+  - Linux
+  - Networking
+  - Security Fundamentals
   - Detection Engineering
-  - SIEM Architecture
-  - Offensive Security Fundamentals
+
 
 Building:
   - Enterprise SIEM Platform
   - Security Monitoring Pipeline
-  - Detection & Alerting Components
+  - Detection Logic
+  - Security Lab Environment
+
 
 Exploring:
   - MITRE ATT&CK
-  - Log Analysis
+  - Offensive Security
   - Adversary Simulation
-  - Security Automation
-```
-
----
-
+  - Practical Cryptography
+</div>
 <div align="center">
+CONNECT
+<a href="https://github.com/bhoomikagowda518-ops"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://www.linkedin.com/in/bhoomikabc2008"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="https://bhoomikabc.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/> </a> <a href="mailto:bhoomikagowda518@gmail.com"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
-## `14 / CONNECT`
+<br><br>
 
-<a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<sub>Build systems. Understand them. Break them. Secure them.</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### Build systems. Understand them. Make them better.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=130&section=footer" width="100%"/> </div>
