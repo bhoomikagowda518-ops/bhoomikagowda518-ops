@@ -169,7 +169,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </table>
 
 </div>
+
 ---
+
 <div align="center">
 
 ## `07 / CERTIFICATIONS & LEARNING`
@@ -302,7 +304,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </table>
 
 </div>
+
 ---
+
 <div align="center">
 
 ## 10 / CONNECT
