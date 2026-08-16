@@ -44,7 +44,7 @@ My approach:
 
 ### Education
 
-**B.E. Computer Science & Engineering — Cybersecurity**  
+**B.E. Computer Science & Engineering (Cybersecurity)**  
 Sri Siddhartha Institute of Technology · **2029**
 
 **CGPA:** `9.69 / 10.00` — 1st Year
