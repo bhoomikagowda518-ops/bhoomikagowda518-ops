@@ -196,29 +196,81 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 ## `07 / CERTIFICATIONS & LEARNING`
 
-</div>
+<br/>
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
 
 ### IBM
 
-<a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN" target="_blank">
+<br/>
+
+<a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
   <img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
 </a>
 
-### Cisco Networking Academy
+<br/><br/>
 
-<a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile" target="_blank">
-  <img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
-</a>
+**Coursera · 2026**
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 ### Google
 
-<a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ" target="_blank">
-  <img src="https://img.shields.io/badge/GOOGLE-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
+<br/>
+
+<a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ">
+  <img src="https://img.shields.io/badge/Google-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
 </a>
+
+<br/><br/>
+
+**Coursera · 2026**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### Cisco Networking Academy
+
+<br/>
+
+<a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
+</a>
+
+<br/><br/>
+
+**Cisco Networking Academy · 2026**
+
+</td>
+
+<td width="50%" align="center" valign="top">
 
 ### IEEE SSIT WIE-AG
 
+<br/>
+
 <img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
+
+<br/><br/>
+
+**LinkedIn Workshop · 2026**
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
