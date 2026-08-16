@@ -269,17 +269,42 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## 09 / CURRENT FOCUS
+## `09 / CURRENT FOCUS`
+
+<table>
+  <tr>
+    <th>Learning</th>
+    <th>Building</th>
+    <th>Exploring</th>
+  </tr>
+  <tr>
+    <td>Security Engineering</td>
+    <td>Enterprise SIEM Platform</td>
+    <td>MITRE ATT&CK</td>
+  </tr>
+  <tr>
+    <td>Linux &amp; Networking</td>
+    <td>Security Monitoring Pipeline</td>
+    <td>Log Analysis</td>
+  </tr>
+  <tr>
+    <td>Detection Engineering</td>
+    <td>Detection &amp; Alerting Components</td>
+    <td>Adversary Simulation</td>
+  </tr>
+  <tr>
+    <td>SIEM Architecture</td>
+    <td>Log Collection &amp; Processing</td>
+    <td>Security Automation</td>
+  </tr>
+  <tr>
+    <td>Offensive Security Fundamentals</td>
+    <td>Detection &amp; Alerting Rules</td>
+    <td>Security Monitoring</td>
+  </tr>
+</table>
 
 </div>
-
-| Learning | Building | Exploring |
-| :--- | :--- | :--- |
-| Security Engineering | Enterprise SIEM Platform | MITRE ATT&CK |
-| Linux & Networking | Security Monitoring Pipeline | Log Analysis |
-| Detection Engineering | Detection & Alerting Components | Adversary Simulation |
-| SIEM Architecture | Log Collection & Processing | Security Automation |
-| Offensive Security Fundamentals | Detection & Alerting Rules | Security Monitoring |
 ---
 
 <div align="center">
