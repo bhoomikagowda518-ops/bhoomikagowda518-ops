@@ -175,27 +175,31 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <div align="center">
 
-## `04 / CERTIFICATIONS & LEARNING`
+## `07 / CERTIFICATIONS & LEARNING`
 
 </div>
 
 ### IBM
 
-<img src="https://img.shields.io/badge/IBM-Python%20101-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python 101"/>
+<a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN" target="_blank">
+  <img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
+</a>
 
 ### Cisco Networking Academy
 
-<img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity"/>
+<a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
+</a>
 
 ### Google
 
-<img src="https://img.shields.io/badge/GOOGLE-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google Introduction to AI"/>
+<a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ" target="_blank">
+  <img src="https://img.shields.io/badge/GOOGLE-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
+</a>
 
 ### IEEE SSIT WIE-AG
 
-<img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Workshop"/>
-
----
+<img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
 
 <div align="center">
 
