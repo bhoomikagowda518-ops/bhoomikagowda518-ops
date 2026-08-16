@@ -58,6 +58,7 @@ Sri Siddhartha Institute of Technology · **2029**
 ### Currently Looking For
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
+
 ---
 
 <div align="center">
