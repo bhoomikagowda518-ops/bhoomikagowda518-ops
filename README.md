@@ -169,7 +169,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </table>
 
 </div>
----
 
 <div align="center">
 
@@ -303,7 +302,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </table>
 
 </div>
----
 
 <div align="center">
 
