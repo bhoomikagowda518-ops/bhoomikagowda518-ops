@@ -232,13 +232,13 @@ A Python + Streamlit security application built to explore practical cryptograph
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9"
+  src="https://github-readme-stats-fast.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9"
   width="48%"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
   width="48%"
   alt="Top Languages"
 />
