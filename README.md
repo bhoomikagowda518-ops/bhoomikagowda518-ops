@@ -273,8 +273,10 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+<img
+  src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 </div>
 
 ---
