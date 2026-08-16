@@ -278,8 +278,8 @@ A Python + Streamlit security application built to explore practical cryptograph
 | Security Engineering | Enterprise SIEM Platform | MITRE ATT&CK |
 | Linux & Networking | Security Monitoring Pipeline | Log Analysis |
 | Detection Engineering | Detection & Alerting Components | Adversary Simulation |
-| SIEM Architecture |  | Security Automation |
-| Offensive Security Fundamentals |  |  |
+| SIEM Architecture | Log Collection & Processing | Security Automation |
+| Offensive Security Fundamentals | Detection & Alerting Rules | Security Monitoring |
 ---
 
 <div align="center">
