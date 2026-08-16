@@ -279,7 +279,6 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 </div>
 
-yaml
 Learning:
   - Security Engineering
   - Linux & Networking
