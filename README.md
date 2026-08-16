@@ -134,7 +134,7 @@ SIEM · Security Monitoring · Detection Engineering · MITRE ATT&CK
 
 <br/>
 
-<a href="YOUR_SIEM_REPOSITORY_URL">
+<a href="https://github.com/bhoomikagowda518-ops/Enterprise-SIEM">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Enterprise SIEM Repository"/>
 </a>
 
@@ -159,7 +159,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-<a href="YOUR_ENCRYPTION_REPOSITORY_URL">
+<a href="https://github.com/bhoomikagowda518-ops/Text-Encryption-Tool">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Text Encryption Tool Repository"/>
 </a>
 
@@ -169,7 +169,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </table>
 
 </div>
-
 ---
 
 <div align="center">
