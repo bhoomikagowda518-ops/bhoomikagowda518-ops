@@ -22,130 +22,79 @@
 
 ---
 
-## Connect
-
-<table>
-<tr>
-<td align="center" width="90">
-<a href="https://github.com/bhoomikagowda518-ops" target="_blank">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
-</a>
-<br/>GitHub
-</td>
-<td align="center" width="90">
-<a href="https://www.linkedin.com/in/bhoomikabc2008" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn"/>
-</a>
-<br/>LinkedIn
-</td>
-<td align="center" width="90">
-<a href="https://bhoomikabc.vercel.app/" target="_blank">
-<img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="55" height="55" alt="Portfolio"/>
-</a>
-<br/>Portfolio
-</td>
-<td align="center" width="90">
-<a href="mailto:bhoomikagowda518@gmail.com" target="_blank">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
-</a>
-<br/>Email
-</td>
-</tr>
-</table>
+3rd-semester CSE Cybersecurity student at SSIT, building practical security systems and currently focusing on SIEM, security monitoring, detection engineering, Linux, networking, and offensive-security fundamentals.
 
 ---
 
-## Focus
-
-3rd-semester Computer Science Engineering student specializing in Cybersecurity at Sri Siddhartha Institute of Technology (SSIT). Currently focused on Security Engineering, SIEM, Detection Engineering, Security Monitoring, Linux, Networking, and Offensive Security fundamentals. Learning through hands-on projects and security labs rather than theory alone.
-
----
-
-## Featured Projects
+## Enterprise SIEM Platform
 
 <details open>
-<summary><b>🛡️ Enterprise SIEM Platform</b> — In Development</summary>
+<summary><b>Status: In Development</b></summary>
 <br/>
 
-Building an enterprise-style SIEM platform in a controlled lab environment to understand the complete security monitoring lifecycle — from log collection through detection and investigation.
+I'm building an enterprise-style SIEM platform in a controlled lab environment to understand how security monitoring systems work end to end — not to produce a dashboard, but to understand the full pipeline behind one.
 
 **Pipeline:**
 
-`Log Collection` → `Log Parsing` → `Log Normalization` → `Storage & Search` → `Detection` → `Alerting` → `Investigation`
+`Collection` → `Parsing` → `Normalization` → `Storage & Search` → `Detection` → `Alerting` → `Investigation`
 
-| Stage | Status |
+| Area | Status |
 |---|---|
-| Log collection & ingestion from lab systems | ✅ Implemented |
-| Initial log parsing into structured data | ✅ Implemented |
-| Log normalization | 🔧 In Development |
-| Centralized storage & search | 🔧 In Development |
-| Detection rule logic | 🔧 In Development |
-| Alert generation | 🔧 In Development |
-| Security event dashboards | ⏳ Planned |
-| MITRE ATT&CK mapping | ⏳ Planned |
-| Controlled attack simulation & validation | ⏳ Planned |
+| Log Collection | ✅ Implemented |
+| Initial Parsing | ✅ Implemented |
+| Normalization | 🔧 In Development |
+| Storage & Search | 🔧 In Development |
+| Detection Rules | 🔧 In Development |
+| Alerting | 🔧 In Development |
+| Dashboards | ⏳ Planned |
+| MITRE ATT&CK Mapping | ⏳ Planned |
+| Attack Simulation | ⏳ Planned |
 
-**Areas demonstrated:** Security Monitoring · Log Analysis · SIEM Architecture · Detection Engineering · Alerting · MITRE ATT&CK Fundamentals
+**Core concepts:** SIEM Architecture · Security Monitoring · Log Analysis · Detection Engineering · Alerting · MITRE ATT&CK Fundamentals
+
+**Repository:** currently private / coming soon
 
 </details>
 
-<br/>
+---
+
+## Text Encryption Tool
 
 <details>
-<summary><b>🔐 Text Encryption Tool</b> — Completed</summary>
+<summary><b>Status: Completed</b></summary>
 <br/>
 
 A practical cryptography application built with Python and Streamlit to explore encryption, hashing, encoding, verification, file hashing, and secure key management.
 
-**Concepts implemented:** Caesar Cipher · ROT13 · Vigenère Cipher · Base64 encoding/decoding · Hex encoding/decoding · SHA-256 hashing · bcrypt hashing & verification · File SHA-256 hashing · Fernet encryption/decryption · AES-GCM authenticated encryption · AES key management
+**Tech:** `Python` `Streamlit` `Cryptography` `PyCryptodome` `AES-GCM` `Fernet` `SHA-256` `bcrypt`
 
-**Tech:** `Python` `Streamlit` `Cryptography` `PyCryptodome` `hashlib` `bcrypt`
+**Concepts:** Caesar Cipher · ROT13 · Vigenère Cipher · Base64 & Hex encoding/decoding · SHA-256 hashing · bcrypt hashing & verification · File SHA-256 hashing · Fernet encryption/decryption · AES-GCM authenticated encryption · AES key management
+
+**Repository:** currently private / coming soon
 
 </details>
 
 ---
 
-## Technical Stack
+## Tech Stack
 
 **Security & Systems**
 
-<table><tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br/><sub>Linux</sub></td>
-<td align="center" width="70"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="50" height="50" alt="Kali Linux"/><br/><sub>Kali Linux</sub></td>
-<td align="center" width="70"><img src="https://cdn.simpleicons.org/gnubash/A78BFA" width="50" height="50" alt="WSL"/><br/><sub>WSL</sub></td>
-<td align="center" width="70"><img src="https://cdn.simpleicons.org/vmware/607078" width="50" height="50" alt="VMware"/><br/><sub>VMware</sub></td>
-</tr></table>
+<img src="https://skillicons.dev/icons?i=linux,kali&theme=dark" alt="Security and Systems skill icons"/>
 
-*Also developing: SIEM concepts · Security monitoring · Log analysis · Detection engineering fundamentals · MITRE ATT&CK fundamentals · Cryptography fundamentals · Networking fundamentals · Offensive security fundamentals*
+*Also developing: WSL · VMware · Networking fundamentals · Cryptography fundamentals · SIEM concepts · Security monitoring · Log analysis · Detection engineering fundamentals · MITRE ATT&CK fundamentals · Offensive security fundamentals*
 
 **Programming**
 
-<table><tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/><sub>Python</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/><br/><sub>C</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br/><sub>C++</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-</tr></table>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts&theme=dark" alt="Programming skill icons"/>
 
 **Web & Development**
 
-<table><tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/><br/><sub>HTML</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/><br/><sub>CSS</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/><sub>React</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/><br/><sub>Next.js</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/><br/><sub>Tailwind</sub></td>
-<td align="center" width="70"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="50" height="50" alt="Streamlit"/><br/><sub>Streamlit</sub></td>
-</tr></table>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Web and development skill icons"/>
 
 **Tools**
 
-<table><tr>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/><sub>Git</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/><sub>GitHub</sub></td>
-<td align="center" width="70"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br/><sub>VS Code</sub></td>
-</tr></table>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools skill icons"/>
 
 ---
 
@@ -221,7 +170,7 @@ Web Security · Security Labs · Adversary Simulation
 <img src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake"/>
 </div>
 
-<sub>Generated by a GitHub Actions workflow configured separately in this repository.</sub>
+<sub>Requires a GitHub Actions workflow in this repository to generate the SVG — not active until that workflow is configured.</sub>
 
 ---
 
