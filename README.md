@@ -198,29 +198,31 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-<!-- Row 1 -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
+        <img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ">
+        <img src="https://img.shields.io/badge/Google-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
-  <img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ">
-  <img src="https://img.shields.io/badge/Google-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
-</a>
-
-<br/><br/>
-
-<!-- Row 2 -->
-
-<a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
+        <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
