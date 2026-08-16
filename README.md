@@ -194,7 +194,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `07 / CERTIFICATIONS & LEARNING`
+## `04 / CERTIFICATIONS & LEARNING`
 
 <br/>
 
@@ -230,29 +230,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `05 / CODING & PROFESSIONAL PROFILES`
-
-<br/>
-
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-bhoomikabc.vercel.app-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `06 / GITHUB ACTIVITY`
+## `05 / GITHUB ACTIVITY`
 
 <br/>
 
@@ -268,7 +246,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `07 / CONTRIBUTION ACTIVITY`
+## `06 / CONTRIBUTION ACTIVITY`
 
 <br/>
 
@@ -280,7 +258,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `08 / CONTRIBUTION SNAKE`
+## `07 / CONTRIBUTION SNAKE`
 
 <br/>
 
@@ -294,7 +272,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `09 / CURRENT FOCUS`
+## `08 / CURRENT FOCUS`
 
 <table>
   <tr>
@@ -335,7 +313,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## 10 / CONNECT
+## 09 / CONNECT
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
