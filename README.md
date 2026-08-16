@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:A78BFA&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20(Cybersecurity)%20Student%20%7C%20Aspiring%20Cybersecurity%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:A78BFA&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20(Cybersecurity)%20Student%20%7C%20Aspiring%20Cybersecurity%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+security+tools+and+systems;Learning+cybersecurity+by+breaking%2C+defending%2C+understanding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+security+tools+and+systems;Learning+cybersecurity+through+hands-on+practice" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,67 +17,56 @@
 
 ## Connect With Me
 
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/bhoomikabc2008" target="_blank">
-        <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn"/>
-      </a>
-      <br/>LinkedIn
-    </td>
+<tr>
 
-```
-<td align="center" width="96">
-  <a href="https://github.com/bhoomikagowda518-ops" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
-  </a>
-  <br/>GitHub
+<td align="center" width="110">
+<a href="https://www.linkedin.com/in/bhoomikabc2008">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55" height="55" alt="LinkedIn"/>
+</a>
+<br/>
+LinkedIn
 </td>
 
-<td align="center" width="96">
-  <a href="mailto:bhoomikagowda518@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
-  </a>
-  <br/>Email
+<td align="center" width="110">
+<a href="https://github.com/bhoomikagowda518-ops">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" height="55" alt="GitHub"/>
+</a>
+<br/>
+GitHub
 </td>
 
-<td align="center" width="96">
-  <a href="https://bhoomikabc.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="55" height="55" alt="Portfolio"/>
-  </a>
-  <br/>Portfolio
+<td align="center" width="110">
+<a href="mailto:bhoomikagowda518@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/>
+</a>
+<br/>
+Email
 </td>
-```
 
-  </tr>
+</tr>
 </table>
 
----
-
-Cybersecurity-focused CSE student learning through hands-on projects and labs — exploring both defensive and offensive security concepts, and building practical systems rather than just collecting certificates.
+</div>
 
 ---
 
 ## Technical Focus
 
-<table>
-  <tr>
-    <td>
+I'm a Computer Science & Engineering student specializing in Cybersecurity, focused on learning security by building, testing, and experimenting with real systems.
 
-**Security**
+My current areas of focus include:
 
-* Exploring cybersecurity and security engineering fundamentals
-* Practicing detection engineering concepts
-* Building toward SIEM and security monitoring
-* Applying cryptography in real projects
-* Learning network security and web security
-* Practicing Linux security
-* Solving CTFs and working through security labs
-
-    </td>
-  </tr>
-
-</table>
+* 🔐 Cryptography and secure application development
+* 🛡️ Security monitoring and detection engineering
+* 📊 SIEM architecture and log analysis
+* 🌐 Networking and network security
+* 🐧 Linux systems and security
+* 🎯 CTFs, security labs, and practical experimentation
+* 🔎 Web security and vulnerability analysis
+* ⚔️ Offensive and defensive security fundamentals
 
 ---
 
@@ -85,137 +74,38 @@ Cybersecurity-focused CSE student learning through hands-on projects and labs �
 
 ### Languages
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-    </td>
+<div align="center">
 
-```
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
 
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
-</td>
+</div>
 
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-</td>
+### Security & Systems
 
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML"/>
-</td>
+<div align="center">
 
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS"/>
-</td>
-```
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55" alt="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
 
-  </tr>
-</table>
-
-### Security / Cybersecurity
-
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>
-    </td>
-
-```
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55" alt="Kali Linux"/>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit"/>
-</td>
-```
-
-  </tr>
-</table>
+</div>
 
 ### Security Development
 
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-    </td>
+<div align="center">
 
-```
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit"/>
-</td>
+<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55" alt="Streamlit"/>
+<img src="https://cdn.simpleicons.org/letsencrypt/A78BFA" width="55" height="55" alt="Cryptography"/>
+<img src="https://cdn.simpleicons.org/letsencrypt/A78BFA" width="55" height="55" alt="AES"/>
+<img src="https://cdn.simpleicons.org/hashnode/A78BFA" width="55" height="55" alt="Hashing"/>
 
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/opensourceinitiative/A78BFA" width="55" height="55" alt="Cryptography"/>
-  <br/>
-  <sub>Cryptography</sub>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/letsencrypt/A78BFA" width="55" height="55" alt="AES-GCM"/>
-  <br/>
-  <sub>AES-GCM</sub>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/fernet/A78BFA" width="55" height="55" alt="Fernet"/>
-  <br/>
-  <sub>Fernet</sub>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/hashnode/A78BFA" width="55" height="55" alt="SHA-256"/>
-  <br/>
-  <sub>SHA-256</sub>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.simpleicons.org/authy/A78BFA" width="55" height="55" alt="bcrypt"/>
-  <br/>
-  <sub>bcrypt</sub>
-</td>
-```
-
-  </tr>
-</table>
-
-### Development Tools
-
-<table>
-  <tr>
-    <td align="center" width="70">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>
-    </td>
-
-```
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
-</td>
-
-<td align="center" width="70">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>
-</td>
-```
-
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -223,21 +113,46 @@ Cybersecurity-focused CSE student learning through hands-on projects and labs �
 
 ### 🔐 Text Encryption Tool
 
-**Status:** Completed
+A practical Python security application built to explore cryptography concepts through implementation.
 
-A practical cryptography and security application supporting encryption, decryption, hashing, verification, encoding, and secure key handling — implemented as a Python cryptography suite with a Streamlit dashboard front end.
+**Includes:**
 
-`Python` · `Streamlit` · `Cryptography` · `AES-GCM` · `Fernet` · `SHA-256` · `bcrypt`
+* Caesar Cipher
+* ROT13
+* Vigenère Cipher
+* Base64 and Hex encoding
+* SHA-256 hashing
+* bcrypt hashing and verification
+* File SHA-256 hashing
+* Fernet encryption/decryption
+* AES-GCM encryption
+* Secure key management
+* Streamlit interface
+
+**Tech:** `Python` `Streamlit` `Cryptography` `PyCryptodome` `bcrypt`
 
 ---
 
 ### 🛡️ Enterprise SIEM Platform
 
-**Status:** In Development
+**Status: In Development**
 
-An ongoing security monitoring and detection engineering project covering log collection, parsing and normalization, centralized storage, log search, detection logic, alert generation, dashboards, MITRE ATT&CK mapping, and controlled-lab attack simulation.
+A hands-on security monitoring platform designed to explore how SIEM systems collect, process, analyze, and respond to security events.
 
-`Security Monitoring` · `Detection Engineering` · `MITRE ATT&CK` · `Log Analysis`
+Current areas include:
+
+* Log collection
+* Log parsing and normalization
+* Centralized storage
+* Log search
+* Detection engineering
+* Alert generation
+* Security dashboards
+* MITRE ATT&CK mapping
+* Controlled attack simulation
+* SOC-oriented monitoring workflows
+
+**Tech:** `Python` `SIEM` `Log Analysis` `Detection Engineering` `MITRE ATT&CK`
 
 ---
 
@@ -267,26 +182,22 @@ An ongoing security monitoring and detection engineering project covering log co
 
 ---
 
-## Building
+## Currently Building
 
 ```text
-Learn → Build → Break → Analyze → Improve
+LEARN → BUILD → BREAK → ANALYZE → IMPROVE
 ```
+
+<div align="center">
+
+### ⚡ Building systems. Breaking assumptions. Learning continuously.
+
+</div>
 
 ---
 
-> "The important thing is not to stop questioning." — Albert Einstein
-
----
-
-```text
-┌──────────────────────────────────────────┐
-│  STATUS: BUILDING                        │
-│  Building systems.                       │
-│  Breaking assumptions.                   │
-│  Learning continuously.                  │
-└──────────────────────────────────────────┘
-```
+> “The important thing is not to stop questioning.”
+> — Albert Einstein
 
 ---
 
