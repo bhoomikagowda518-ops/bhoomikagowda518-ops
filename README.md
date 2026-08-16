@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Bhoomika B C"/>
 
 <br/>
 
@@ -9,19 +9,25 @@
 <br/><br/>
 
 <a href="https://bhoomikabc.vercel.app/">
-  <img src="https://img.shields.io/badge/-%F0%9F%8C%90-6D28D9?style=for-the-badge" width="55" alt="Portfolio"/>
+  <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="36" height="36" alt="Portfolio"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-  <img src="https://img.shields.io/badge/-%F0%9D%95%83-0A66C2?style=for-the-badge" width="55" alt="LinkedIn"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" height="36" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:bhoomikagowda518@gmail.com">
-  <img src="https://img.shields.io/badge/-%E2%9C%89-EA4335?style=for-the-badge" width="55" alt="Email"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
-  <img src="https://img.shields.io/badge/-%F0%9F%90%99-181717?style=for-the-badge" width="55" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub"/>
 </a>
 
 <br/><br/>
