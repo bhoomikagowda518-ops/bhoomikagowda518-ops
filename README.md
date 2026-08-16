@@ -1,200 +1,211 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:111827,100:7C3AED&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20%26%20Detection%20Engineering&descAlignY=58&descSize=18&descColor=E5E7EB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:A78BFA&height=200&section=header&text=Bhoomika%20B%20C&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=CSE%20(Cybersecurity)%20Student%20%7C%20Aspiring%20Cybersecurity%20Engineer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+practical+security+systems;Learning+through+building%2C+breaking%2C+and+analyzing;Exploring+SIEM+%26+Detection+Engineering;Cybersecurity+%7C+Linux+%7C+Networking" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+practical+security+systems;Learning+cybersecurity+by+building+and+breaking" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://bhoomikabc.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="42"/>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" height="45" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=7C3AED&style=for-the-badge&labelColor=0B1020&label=FOLLOWERS"/>
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&label=PROFILE+VIEWS&color=A78BFA&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?label=FOLLOWERS&style=for-the-badge&color=2563EB&labelColor=0D1117" alt="Followers"/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-## `🛡️ CYBERSECURITY ENGINEERING`
+## `⚡ ABOUT ME`
 
 </div>
 
-I'm a **Computer Science Engineering student specializing in Cybersecurity**, currently building my foundation toward **Security Engineering and Detection Engineering**.
+<table align="center" width="100%">
+<tr>
+<td>
 
-My approach is simple:
+🎓 **Computer Science Engineering student specializing in Cybersecurity**
 
-**Learn → Build → Break → Analyze → Improve**
+🔐 Interested in **Security Engineering, Detection Engineering, SIEM, Linux, Networking, and Offensive Security**
 
-Rather than only studying security concepts theoretically, I focus on turning what I learn into **working tools, security systems, and controlled lab environments**.
+🛠️ Learning through **hands-on projects, security labs, experimentation, and building real systems**
+
+🧠 Currently developing a deeper understanding of **security monitoring, log analysis, detection logic, and cybersecurity fundamentals**
+
+🎯 Long-term direction: **Security Engineering / Detection Engineering**
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-## `🚀 WHAT I'M BUILDING`
+## `🛡️ CURRENTLY BUILDING`
+
+### Enterprise SIEM Platform
+
+**Security Engineering · Detection Engineering · Python**
 
 </div>
 
-### 🛡️ Enterprise SIEM Platform
+A hands-on SIEM project being developed in a controlled lab environment to understand how security monitoring works **end to end**.
 
-**Status: In Development**
-
-A hands-on SIEM project being built from the ground up to understand how security monitoring works across an entire pipeline.
-Log Collection
+```text
+┌────────────┐
+│    Logs    │
+└─────┬──────┘
       ↓
-Parsing
+┌────────────┐
+│ Collection │
+└─────┬──────┘
       ↓
-Normalization
+┌────────────┐
+│   Parsing  │
+└─────┬──────┘
       ↓
-Centralized Storage
-      ↓
-Search & Analysis
-      ↓
-Detection Rules
-      ↓
-Alert Generation
-      ↓
-Investigation
+┌──────────────┐
+│ Normalization│
+└──────┬───────┘
+       ↓
+┌─────────────────┐
+│ Storage & Search │
+└────────┬────────┘
+         ↓
+┌──────────────┐
+│   Detection  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Alerting   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Investigation│
+└──────────────┘
+Project Scope
+Stage	Status
+Log Collection & Ingestion	🟢 Implemented
+Initial Log Parsing	🟢 Implemented
+Log Normalization	🟡 In Development
+Centralized Storage	🟡 In Development
+Log Search	🟡 In Development
+Detection Rules	🟡 In Development
+Alert Generation	🟡 In Development
+Security Dashboards	🔵 Planned
+MITRE ATT&CK Mapping	🔵 Planned
+Controlled Attack Simulation	🔵 Planned
 
-The project explores:
-
-* Log collection and ingestion
-* Log parsing and normalization
-* Centralized security-event storage
-* Search and analysis
-* Detection engineering
-* Alert generation
-* Security dashboards
-* MITRE ATT&CK mapping
-* Controlled attack simulation
-* Detection validation
-
-**Focus:** understanding how security monitoring systems work internally rather than simply using an existing SIEM.
-
-
-### 🔐 Text Encryption Tool
-
-**Status: Completed**
-
-A Python + Streamlit security application built to explore practical cryptography and secure data handling.
-
-**Implemented concepts:**
-
-* Caesar Cipher
-* ROT13
-* Vigenère Cipher
-* Base64 encoding/decoding
-* Hex encoding/decoding
-* SHA-256 hashing
-* bcrypt hashing and verification
-* File SHA-256 hashing
-* Fernet encryption/decryption
-* AES-GCM authenticated encryption
-* Secure key management
-
-**Technologies:** `Python` · `Streamlit` · `Cryptography` · `PyCryptodome`
-
+Repository: Coming soon
 
 <div align="center">
+🔐 FEATURED PROJECT
+Text Encryption Tool
 
-## `⚙️ TECHNICAL FOCUS`
+Python · Streamlit · Cryptography
 
 </div>
 
-### 🔒 Cybersecurity
+A practical cryptography application built to explore encryption, hashing, encoding, verification, and secure key management.
 
-`Security Monitoring` · `SIEM` · `Detection Engineering` · `Log Analysis` · `MITRE ATT&CK` · `Cryptography` · `Linux Security` · `Networking` · `Offensive Security Fundamentals`
+Implemented concepts:
 
-### 💻 Programming
+Caesar Cipher
+ROT13
+Vigenère Cipher
+Base64 Encoding / Decoding
+Hex Encoding / Decoding
+SHA-256 Hashing
+File SHA-256 Hashing
+bcrypt Hashing & Verification
+Fernet Encryption / Decryption
+AES-GCM Encryption / Decryption
+Secure AES Key Management
 
-`Python` · `C` · `C++` · `JavaScript` · `TypeScript`
+Tech: Python Streamlit Cryptography PyCryptodome AES-GCM Fernet SHA-256 bcrypt
 
-### 🌐 Web Development
+Status: ✅ Completed
 
-`HTML` · `CSS` · `React` · `Next.js` · `Tailwind CSS` · `Streamlit`
-
-### 🛠️ Tools & Environment
-
-`Git` · `GitHub` · `VS Code` · `Linux` · `Kali Linux` · `WSL` · `VMware`
+Repository: Coming soon
 
 <div align="center">
-
-## `📚 LEARNING JOURNEY`
-
+🧰 TECH STACK
 </div>
-Programming & CS Fundamentals
-            ↓
-Linux & Networking
-            ↓
-Cybersecurity Fundamentals
-            ↓
-Security Engineering
-            ↓
-SIEM & Security Monitoring
-            ↓
-Detection Engineering
-            ↓
-Offensive Security Fundamentals
-### Certifications & Courses
+🔐 Security & Systems
+<table> <tr> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/> <br/><sub><b>Linux</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55"/> <br/><sub><b>Kali Linux</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.simpleicons.org/vmware/607078" width="55" height="55"/> <br/><sub><b>VMware</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.simpleicons.org/gnubash/A78BFA" width="55" height="55"/> <br/><sub><b>WSL</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.simpleicons.org/mitre/FFFFFF" width="55" height="55"/> <br/><sub><b>MITRE ATT&CK</b></sub> </td> </tr> </table>
 
-* **IBM** — Python 101
-* **Cisco Networking Academy** — Introduction to Cybersecurity
-* **Google** — Introduction to AI
-* **LinkedIn / IEEE SSIT WIE-AG** — LinkedIn Workshop
+Security: SIEM · Security Monitoring · Log Analysis · Detection Engineering · Networking · Cryptography · Offensive Security Fundamentals
 
+💻 Programming
+<table> <tr> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/> <br/><sub><b>Python</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/> <br/><sub><b>C</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> <br/><sub><b>C++</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/> <br/><sub><b>JavaScript</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/> <br/><sub><b>TypeScript</b></sub> </td> </tr> </table>
+🌐 Web & Development
+<table> <tr> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/> <br/><sub><b>HTML</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/> <br/><sub><b>CSS</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/> <br/><sub><b>React</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55"/> <br/><sub><b>Next.js</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/> <br/><sub><b>Tailwind</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55" height="55"/> <br/><sub><b>Streamlit</b></sub> </td> </tr> </table>
+🛠️ Development Tools
+<table> <tr> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/> <br/><sub><b>Git</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/> <br/><sub><b>GitHub</b></sub> </td> <td align="center" width="90"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/> <br/><sub><b>VS Code</b></sub> </td> </tr> </table>
 <div align="center">
-
-## `📊 GITHUB ACTIVITY`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" width="55%"/>
+📚 LEARNING DIRECTION
+Programming + Linux + Networking
+              ↓
+      Security Engineering
+              ↓
+       SIEM + Monitoring
+              ↓
+      Detection Engineering
+              ↓
+       Offensive Security
+              ↓
+     Adversary Simulation
+</div>
+Learning Journey
+IBM — Python 101
+Cisco Networking Academy — Introduction to Cybersecurity
+Google — Introduction to AI
+IEEE SSIT WIE-AG — LinkedIn Workshop
+<div align="center">
+📊 GITHUB ANALYTICS
+<img src="https://github-readme-stats.vercel.app/api?username=bhoomikagowda518-ops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="55%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF" width="95%"/>
-
-</div>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/> </div>
+<div align="center">
+📈 CONTRIBUTION ACTIVITY
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF" width="100%"/> </div>
 <div align="center">
 
-## `🔗 CONNECT`
-
-<a href="https://github.com/bhoomikagowda518-ops">GitHub</a>
-  •   <a href="https://www.linkedin.com/in/bhoomikabc2008">LinkedIn</a>
-  •   <a href="https://bhoomikabc.vercel.app/">Portfolio</a>
-  •   <a href="mailto:bhoomikagowda518@gmail.com">Email</a>
-
-<br/><br/>
-
-### `Learn → Build → Break → Analyze → Improve`
-
-<br/>
-
-<sub>Building practical security systems, one layer at a time.</sub>
+"The important thing is not to stop questioning."
+— Albert Einstein
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:111827,100:0B1020&height=140&section=footer" width="100%"/>
+<div align="center">
+┌──────────────────────────────────────────────┐
+│                                              │
+│              STATUS: BUILDING                │
+│                                              │
+│       Learn → Build → Break → Analyze        │
+│                    ↓                         │
+│                 Improve                      │
+│                                              │
+└──────────────────────────────────────────────┘
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:A78BFA&height=120&section=footer&text=Building%20security%20systems.%20Understanding%20how%20they%20work.&fontSize=14&fontColor=ffffff&fontAlignY=80" width="100%"/> </div> 
