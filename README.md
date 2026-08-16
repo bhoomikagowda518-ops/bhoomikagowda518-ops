@@ -8,38 +8,18 @@
 
 <br/><br/>
 
-<p align="center">
-
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
-</a>
-
+<a href="https://bhoomikabc.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/></a>
 &nbsp;
-
-<a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
-
+<a href="https://www.linkedin.com/in/bhoomikabc2008"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
 &nbsp;
-
-<a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-</a>
-
+<a href="mailto:bhoomikagowda518@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
 &nbsp;
+<a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
 
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
-
-</p>
-
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-
 &nbsp;
-
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </div>
