@@ -56,7 +56,7 @@ Sri Siddhartha Institute of Technology
 
 **Expected Graduation:** 2029
 
-**Current Academic Performance:** `10.00 CGPA — 1st Semester`
+**Current Academic Performance:** `9.69 CGPA — 1st Year`
 
 ### Open To
 
