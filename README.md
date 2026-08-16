@@ -273,25 +273,13 @@ A Python + Streamlit security application built to explore practical cryptograph
 
 </div>
 
-Learning:
-  - Security Engineering
-  - Linux & Networking
-  - Detection Engineering
-  - SIEM Architecture
-  - Offensive Security Fundamentals
-
-Building:
-  - Enterprise SIEM Platform
-  - Security Monitoring Pipeline
-  - Detection & Alerting Components
-
-Exploring:
-  - MITRE ATT&CK
-  - Log Analysis
-  - Adversary Simulation
-  - Security Automation
-
-
+| Learning | Building | Exploring |
+| :--- | :--- | :--- |
+| Security Engineering | Enterprise SIEM Platform | MITRE ATT&CK |
+| Linux & Networking | Security Monitoring Pipeline | Log Analysis |
+| Detection Engineering | Detection & Alerting Components | Adversary Simulation |
+| SIEM Architecture |  | Security Automation |
+| Offensive Security Fundamentals |  |  |
 ---
 
 <div align="center">
