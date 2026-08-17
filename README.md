@@ -226,7 +226,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA"
+  src="https://streak-stats.demolab.com?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA"
   width="70%"
   alt="GitHub Contribution Streak"
 />
