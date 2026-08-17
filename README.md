@@ -237,22 +237,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `05 / GITHUB ACTIVITY`
-
-<br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA"
-  width="70%"
-  alt="GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 ## `07 / CONTRIBUTION SNAKE`
 
 <br/>
