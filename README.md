@@ -386,7 +386,10 @@ alt="GitHub Contribution Snake"
 
 ### Build systems. Understand them. Make them better.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
+<div align="center">
+  
+  <!-- Footer -->
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling"/>
 
 <br/><br/>
 
