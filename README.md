@@ -36,17 +36,17 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Computer Coding Animation"/>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
 
-<br/>
+<h1>01 / ABOUT</h1>
 
-## 01 / ABOUT
+</div>
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
 
@@ -67,15 +67,13 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 02 / TECH STACK
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>02 / TECH STACK</h1>
+
+<br/>
 
 ### Languages
 
@@ -131,15 +129,13 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 03 / FEATURED PROJECTS
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>03 / FEATURED PROJECTS</h1>
+
+<br/>
 
 <table>
 <tr>
@@ -199,15 +195,13 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 04 / CERTIFICATIONS & LEARNING
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>04 / CERTIFICATIONS & LEARNING</h1>
+
+<br/>
 
 <table>
 
@@ -253,15 +247,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 05 / GITHUB ACTIVITY
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>05 / GITHUB ACTIVITY</h1>
 
 <br/>
 
@@ -269,31 +259,23 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 06 / CONTRIBUTION ACTIVITY
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
 
+<h1>06 / CONTRIBUTION ACTIVITY</h1>
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Bhoomika%27s%20Contribution%20Graph" width="100%" alt="Bhoomika's GitHub Contribution Graph"/>
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 07 / CONTRIBUTION SNAKE
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>07 / CONTRIBUTION SNAKE</h1>
 
 <br/>
 
@@ -304,15 +286,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 08 / CURRENT FOCUS
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>08 / CURRENT FOCUS</h1>
 
 <table>
 
@@ -356,15 +334,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## 09 / CONNECT
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
+
+<h1>09 / CONNECT</h1>
 
 <br/>
 
@@ -372,13 +346,19 @@ alt="GitHub Contribution Snake"
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
 <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+&nbsp;
 
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -386,15 +366,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <div align="center">
 
-## Build systems. Understand them. Make them better.
+<h2>Build systems. Understand them. Make them better.</h2>
 
 <br/>
 
@@ -402,7 +378,7 @@ alt="GitHub Contribution Snake"
 
 <br/><br/>
 
-*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
+<i>"Security is not just about finding vulnerabilities — it's about understanding why they exist."</i>
 
 <br/><br/>
 
