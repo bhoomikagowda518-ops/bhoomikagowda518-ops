@@ -44,7 +44,7 @@
 
 <div align="center">
 
-## `01 / ABOUT`
+<h2><code>01 / ABOUT</code></h2>
 
 </div>
 
@@ -71,7 +71,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## `02 / TECH STACK`
+<h2><code>02 / TECH STACK</code></h2>
 
 <br/>
 
@@ -133,7 +133,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## `03 / FEATURED PROJECTS`
+<h2><code>03 / FEATURED PROJECTS</code></h2>
 
 <br/>
 
@@ -199,7 +199,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `04 / CERTIFICATIONS & LEARNING`
+<h2><code>04 / CERTIFICATIONS & LEARNING</code></h2>
 
 <br/>
 
@@ -237,7 +237,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `05 / GITHUB ACTIVITY`
+<h2><code>05 / GITHUB ACTIVITY</code></h2>
 
 <br/>
 
@@ -249,7 +249,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `06 / CONTRIBUTION ACTIVITY`
+<h2><code>06 / CONTRIBUTION ACTIVITY</code></h2>
 
 <br/>
 
@@ -261,7 +261,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `07 / CONTRIBUTION SNAKE`
+<h2><code>07 / CONTRIBUTION SNAKE</code></h2>
 
 <br/>
 
@@ -276,7 +276,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `08 / CURRENT FOCUS`
+<h2><code>08 / CURRENT FOCUS</code></h2>
+
+<br/>
 
 <table>
   <tr>
@@ -322,7 +324,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `09 / CONNECT`
+<h2><code>09 / CONNECT</code></h2>
 
 <br/>
 
