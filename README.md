@@ -30,45 +30,17 @@
 
 <br/><br/>
 
-<table align="center">
-<tr>
-
-<td align="center" valign="middle">
-
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-<br/><br/>
+&nbsp;
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
-
-</td>
-
-<td width="35"></td>
-
-<td align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230" alt="Coding Animation"/>
-
-</td>
-
-</tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="Coding Animation"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## `01 / ABOUT`
-
-</div>
+## 01 / ABOUT
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
 
@@ -91,19 +63,9 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 02 / TECH STACK
 
 <div align="center">
-
-## `02 / TECH STACK`
-
-<br/>
 
 ### Languages
 
@@ -161,19 +123,9 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 03 / FEATURED PROJECTS
 
 <div align="center">
-
-## `03 / FEATURED PROJECTS`
-
-<br/>
 
 <table>
 <tr>
@@ -235,19 +187,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 04 / CERTIFICATIONS & LEARNING
 
 <div align="center">
-
-## `04 / CERTIFICATIONS & LEARNING`
-
-<br/>
 
 <table>
 <tr>
@@ -295,17 +237,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
+## `05 / GITHUB ACTIVITY`
 
 <br/>
 
 <div align="center">
-
-## `05 / GITHUB ACTIVITY`
-
-<br/>
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bhoomikagowda518-ops&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
 
@@ -317,21 +253,13 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+<br/><br/>
 
 </div>
 
-<br/>
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
-
-## `06 / CONTRIBUTION ACTIVITY`
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
 
@@ -339,19 +267,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 07 / CONTRIBUTION SNAKE
 
 <div align="center">
-
-## `07 / CONTRIBUTION SNAKE`
-
-<br/>
 
 <img
 src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
@@ -362,19 +280,9 @@ alt="GitHub Contribution Snake"
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 08 / CURRENT FOCUS
 
 <div align="center">
-
-## `08 / CURRENT FOCUS`
-
-<br/>
 
 <table>
 
@@ -420,19 +328,9 @@ alt="GitHub Contribution Snake"
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
-<br/>
+## 09 / CONNECT
 
 <div align="center">
-
-## `09 / CONNECT`
-
-<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -452,14 +350,6 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
-
-</div>
-
 <br/><br/>
 
 <div align="center">
@@ -474,6 +364,6 @@ alt="GitHub Contribution Snake"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/> 
+ 
 </div>
