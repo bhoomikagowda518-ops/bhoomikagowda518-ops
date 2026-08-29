@@ -58,7 +58,15 @@
 
 </div>
 
-## 01 / ABOUT
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `01 / ABOUT`
+
+</div>
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
 
@@ -79,11 +87,19 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
-<br/>
-
-## 02 / TECH STACK
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `02 / TECH STACK`
+
+<br/>
 
 ### Languages
 
@@ -139,11 +155,19 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
-<br/>
-
-## 03 / FEATURED PROJECTS
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `03 / FEATURED PROJECTS`
+
+<br/>
 
 <table>
 <tr>
@@ -203,11 +227,19 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-## 04 / CERTIFICATIONS & LEARNING
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `04 / CERTIFICATIONS & LEARNING`
+
+<br/>
 
 <table>
 <tr>
@@ -251,15 +283,19 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
+<br/><br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
 
 <div align="center">
 
 ## `05 / GITHUB ACTIVITY`
 
 <br/>
-
-<div align="center">
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bhoomikagowda518-ops&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
 
@@ -273,21 +309,35 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/><br/>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
 
-## 06 / CONTRIBUTION ACTIVITY
+<br/><br/>
 
 <div align="center">
+
+## `06 / CONTRIBUTION ACTIVITY`
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-<br/>
-
-## 07 / CONTRIBUTION SNAKE
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `07 / CONTRIBUTION SNAKE`
+
+<br/>
 
 <img
 src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
@@ -296,11 +346,19 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-## 08 / CURRENT FOCUS
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `08 / CURRENT FOCUS`
+
+<br/>
 
 <table>
 
@@ -344,23 +402,37 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-## 09 / CONNECT
+<br/><br/>
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+## `09 / CONNECT`
+
+<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
 <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+&nbsp;
 
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -372,16 +444,22 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-### Build systems. Understand them. Make them better.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 
 <br/><br/>
+
+### Build systems. Understand them. Make them better.
+
+<br/>
 
 *"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/> 
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
