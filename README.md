@@ -384,6 +384,3 @@ alt="GitHub Contribution Snake"
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
