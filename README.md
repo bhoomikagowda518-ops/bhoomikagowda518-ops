@@ -1,43 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=220&section=header&text=Bhoomika%20B%20C&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=58&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="Bhoomika B C"/>
+<!-- Header -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=300&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18&descColor=FFFFFF" alt="Bhoomika B C"/>
 
-<br/>
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&center=true&vCenter=true&width=750&height=70&duration=3500&pause=900&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
+<!-- Introduction -->
+<h2>
+Cybersecurity Engineering Student | Security Systems Builder
+</h2>
 
-<br/><br/>
-
-<a href="https://bhoomikabc.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bhoomikabc2008"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://www.instagram.com/bhoomika_bc_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-&nbsp;
-<a href="mailto:bhoomikagowda518@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
-
-<br/><br/>
+<!-- Portfolio -->
+<p>
+<a href="https://bhoomikabc.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=18181B" alt="Portfolio"/>
+</a>
 </p>
 
-<br/>
+<!-- Social Links -->
+<p>
+<a href="https://www.linkedin.com/in/bhoomikabc2008">
+<img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+&nbsp;
+
+<a href="https://github.com/bhoomikagowda518-ops">
+<img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:bhoomikagowda518@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+<!-- Coding Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="420"/>
 
 <br/><br/>
 
+<!-- Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+
 &nbsp;
+
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </div>
 
-<br/><br/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
-</div>
-
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 <div align="center">
 
 ## `01 / ABOUT`
