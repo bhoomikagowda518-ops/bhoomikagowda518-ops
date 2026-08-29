@@ -322,29 +322,22 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
+
 <div align="center">
 
-## `09 / CONNECT`
-
-<br/>
+## 09 / CONNECT
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-&nbsp;
-
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
 <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-&nbsp;
-
 <a href="https://github.com/bhoomikagowda518-ops">
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-&nbsp;
 
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -352,17 +345,15 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-## Build systems. Understand them. Make them better.
+### Build systems. Understand them. Make them better.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
-
-<br/><br/>
+</div>
 
 ### *"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
 
