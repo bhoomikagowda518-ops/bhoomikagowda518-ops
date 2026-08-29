@@ -21,8 +21,8 @@
   
   <!-- Animated Coding GIF -->
 <img
-  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif"
-  width="420"
+  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0"
+  width="600"
   alt="Floating Work Structure"
 />
 </div>
