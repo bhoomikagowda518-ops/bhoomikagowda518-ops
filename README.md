@@ -19,9 +19,6 @@
 <a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
 
 <br/><br/>
-</p>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 
@@ -32,8 +29,6 @@
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </div>
-
----
 
 <div align="center">
 
@@ -60,19 +55,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
-<br/>
-
-<div align="center">
-
-> *“Understand the system before you try to secure it.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -134,19 +117,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Tools are powerful. Understanding what happens underneath is more powerful.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -212,19 +183,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“The best way to learn security is to build, break, investigate, and improve.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -234,6 +193,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <table>
 <tr>
+
 <td align="center" width="50%">
 
 <a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
@@ -249,6 +209,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </a>
 
 </td>
+
 </tr>
 
 <tr>
@@ -272,19 +233,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Learning gives you the foundation. Building gives you the understanding.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -296,19 +245,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Consistency turns small commits into real capability.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -320,19 +257,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Every contribution is another step toward becoming a better engineer.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -341,31 +266,20 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <img
-src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
 />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Progress is built one commit at a time.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
 ## `08 / CURRENT FOCUS`
 
 <table>
+
 <tr>
 <th>Learning</th>
 <th>Building</th>
@@ -406,19 +320,7 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-<div align="center">
-
-> *“Stay curious. Keep building. Keep questioning.”*
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -430,13 +332,19 @@ alt="GitHub Contribution Snake"
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
 <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+&nbsp;
 
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -448,27 +356,15 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-> *“Security is not a solo discipline. The strongest systems are built together.”*
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Build systems. Understand them. Make them better.
+## Build systems. Understand them. Make them better.
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
 
-<br/>
+<br/><br/>
 
-*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
+### *"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
 
 <br/><br/>
 
