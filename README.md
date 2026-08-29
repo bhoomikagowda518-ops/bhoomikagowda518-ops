@@ -5,7 +5,7 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=300&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18"/>
   
   <!-- Dynamic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=850&height=70&duration=4000&pause=1000&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
   
   <!-- Professional Introduction -->
   <h2 style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Inter', sans-serif; margin: 30px 0 20px 0;">
@@ -25,6 +25,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  
 ## `01 / ABOUT`
 
 </div>
