@@ -8,15 +8,31 @@
 
 <br/><br/>
 
-<a href="https://bhoomikabc.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/></a>
+<a href="https://bhoomikabc.vercel.app/">
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
+</a>
 &nbsp;
-<a href="https://www.linkedin.com/in/bhoomikabc2008"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/bhoomikabc2008">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
 &nbsp;
-<a href="https://www.instagram.com/bhoomika_bc_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
+<a href="https://www.instagram.com/bhoomika_bc_/">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+</a>
 &nbsp;
-<a href="mailto:bhoomikagowda518@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
+<a href="mailto:bhoomikagowda518@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+</a>
 &nbsp;
-<a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+<a href="https://github.com/bhoomikagowda518-ops">
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- COMPUTER ANIMATION -->
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 
 <br/><br/>
 
@@ -26,7 +42,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -53,7 +69,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -115,7 +131,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -146,7 +162,7 @@ SIEM · Security Monitoring · Detection Engineering · MITRE ATT&CK
 <br/>
 
 <a href="https://github.com/bhoomikagowda518-ops/Enterprise-SIEM">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Enterprise SIEM Repository"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Enterprise SIEM Repository"/>
 </a>
 
 </td>
@@ -171,7 +187,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <a href="https://github.com/bhoomikagowda518-ops/Text-Encryption-Tool">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Text Encryption Tool Repository"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Text Encryption Tool Repository"/>
 </a>
 
 </td>
@@ -181,7 +197,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -190,34 +206,50 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
-        <img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ">
-        <img src="https://img.shields.io/badge/Google-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
-      </a>
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
-        <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
+<img src="https://img.shields.io/badge/IBM-Introduction%20to%20HTML%2C%20CSS%20%26%20JavaScript-6D28D9?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM - Introduction to HTML, CSS, & JavaScript"/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://www.coursera.org/account/accomplishments/records/H76C137TGNMQ">
+<img src="https://img.shields.io/badge/Google-Introduction%20to%20AI-4F46E5?style=for-the-badge&logo=google&logoColor=white" alt="Google - Introduction to AI"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
+<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-2563EB?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco - Introduction to Cybersecurity"/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/IEEE%20SSIT%20WIE--AG-LinkedIn%20Workshop-312E81?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE SSIT WIE-AG - LinkedIn Workshop"/>
+
+</td>
+
+</tr>
+
 </table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -225,11 +257,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -241,7 +273,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
@@ -250,69 +282,85 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <img
-  src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
 />
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
 ## `08 / CURRENT FOCUS`
 
 <table>
-  <tr>
-    <th>Learning</th>
-    <th>Building</th>
-    <th>Exploring</th>
-  </tr>
-  <tr>
-    <td>Security Engineering</td>
-    <td>Enterprise SIEM Platform</td>
-    <td>MITRE ATT&CK</td>
-  </tr>
-  <tr>
-    <td>Linux &amp; Networking</td>
-    <td>Security Monitoring Pipeline</td>
-    <td>Log Analysis</td>
-  </tr>
-  <tr>
-    <td>Detection Engineering</td>
-    <td>Detection &amp; Alerting Components</td>
-    <td>Adversary Simulation</td>
-  </tr>
-  <tr>
-    <td>SIEM Architecture</td>
-    <td>Log Collection &amp; Processing</td>
-    <td>Security Automation</td>
-  </tr>
-  <tr>
-    <td>Offensive Security Fundamentals</td>
-    <td>Detection &amp; Alerting Rules</td>
-    <td>Security Monitoring</td>
-  </tr>
+
+<tr>
+<th>Learning</th>
+<th>Building</th>
+<th>Exploring</th>
+</tr>
+
+<tr>
+<td>Security Engineering</td>
+<td>Enterprise SIEM Platform</td>
+<td>MITRE ATT&CK</td>
+</tr>
+
+<tr>
+<td>Linux &amp; Networking</td>
+<td>Security Monitoring Pipeline</td>
+<td>Log Analysis</td>
+</tr>
+
+<tr>
+<td>Detection Engineering</td>
+<td>Detection &amp; Alerting Components</td>
+<td>Adversary Simulation</td>
+</tr>
+
+<tr>
+<td>SIEM Architecture</td>
+<td>Log Collection &amp; Processing</td>
+<td>Security Automation</td>
+</tr>
+
+<tr>
+<td>Offensive Security Fundamentals</td>
+<td>Detection &amp; Alerting Rules</td>
+<td>Security Monitoring</td>
+</tr>
+
 </table>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
-## 09 / CONNECT
+## `09 / CONNECT`
+
+<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/bhoomikabc2008">
 <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/bhoomikagowda518-ops">
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+&nbsp;
 
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -320,12 +368,22 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
 ### Build systems. Understand them. Make them better.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
+
+<br/><br/>
+
+*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=flat-square&color=6D28D9&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
