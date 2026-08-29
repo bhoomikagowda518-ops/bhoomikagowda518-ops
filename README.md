@@ -20,8 +20,11 @@
   </p>
   
   <!-- Animated Coding GIF -->
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-developer-developed-code-animation-gif-download-5861979.gif" width="420" alt="Female Coding Animation"/>
-  
+ <img
+  src="https://cdnl.iconscout.com/lottie/premium/thumb/female-software-engineer-at-work-animation-gif-download-5628992.gif"
+  width="420"
+  alt="Female Software Engineer Coding Animation"
+/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
