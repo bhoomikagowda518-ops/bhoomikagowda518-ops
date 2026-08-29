@@ -32,11 +32,29 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+
+<td align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420" alt="Coding Animation"/>
+
+</td>
+
+<td width="35"></td>
+
+<td align="center" valign="middle">
+
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-&nbsp;
+
+<br/><br/>
+
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
