@@ -44,7 +44,9 @@
 
 <div align="center">
 
-<h2><code>01 / ABOUT</code></h2>
+<p>
+<strong><code>01 / ABOUT</code></strong>
+</p>
 
 </div>
 
@@ -71,7 +73,9 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-<h2><code>02 / TECH STACK</code></h2>
+<p>
+<strong><code>02 / TECH STACK</code></strong>
+</p>
 
 <br/>
 
@@ -133,7 +137,9 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-<h2><code>03 / FEATURED PROJECTS</code></h2>
+<p>
+<strong><code>03 / FEATURED PROJECTS</code></strong>
+</p>
 
 <br/>
 
@@ -199,7 +205,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>04 / CERTIFICATIONS & LEARNING</code></h2>
+<p>
+<strong><code>04 / CERTIFICATIONS & LEARNING</code></strong>
+</p>
 
 <br/>
 
@@ -237,7 +245,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>05 / GITHUB ACTIVITY</code></h2>
+<p>
+<strong><code>05 / GITHUB ACTIVITY</code></strong>
+</p>
 
 <br/>
 
@@ -249,7 +259,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>06 / CONTRIBUTION ACTIVITY</code></h2>
+<p>
+<strong><code>06 / CONTRIBUTION ACTIVITY</code></strong>
+</p>
 
 <br/>
 
@@ -261,7 +273,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>07 / CONTRIBUTION SNAKE</code></h2>
+<p>
+<strong><code>07 / CONTRIBUTION SNAKE</code></strong>
+</p>
 
 <br/>
 
@@ -276,7 +290,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>08 / CURRENT FOCUS</code></h2>
+<p>
+<strong><code>08 / CURRENT FOCUS</code></strong>
+</p>
 
 <br/>
 
@@ -324,7 +340,9 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<h2><code>09 / CONNECT</code></h2>
+<p>
+<strong><code>09 / CONNECT</code></strong>
+</p>
 
 <br/>
 
@@ -356,15 +374,15 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-### Build systems. Understand them. Make them better.
-
-<br/>
+<p>
+<strong>Build systems. Understand them. Make them better.</strong>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
 
 <br/><br/>
 
-*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
+<em>"Security is not just about finding vulnerabilities — it's about understanding why they exist."</em>
 
 <br/><br/>
 
