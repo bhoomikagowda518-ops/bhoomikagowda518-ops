@@ -21,10 +21,9 @@
   
   <!-- Animated Coding GIF -->
 <img
-  src="https://cdnl.iconscout.com/lottie/premium/thumb/female-software-engineer-at-work-animation-gif-download-5628992.gif"
+  src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif"
   width="420"
-  alt="Female Software Engineer Coding Animation"
-  style="transform: scaleX(1.18);"
+  alt="Floating Work Structure"
 />
 </div>
 
