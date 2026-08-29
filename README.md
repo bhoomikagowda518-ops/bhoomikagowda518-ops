@@ -61,6 +61,9 @@
 </div>
 
 <br/><br/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
+</div>
 
 <div align="center">
 
@@ -159,8 +162,6 @@ Sri Siddhartha Institute of Technology · **2029**
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
 
-<br/><br/>
-
 <div align="center">
 
 ## `03 / FEATURED PROJECTS`
@@ -231,8 +232,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
 
-<br/><br/>
-
 <div align="center">
 
 ## `04 / CERTIFICATIONS & LEARNING`
@@ -287,8 +286,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
 
-<br/><br/>
-
 <div align="center">
 
 ## `05 / GITHUB ACTIVITY`
@@ -311,8 +308,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
 
-<br/><br/>
-
 <div align="center">
 
 ## `06 / CONTRIBUTION ACTIVITY`
@@ -328,8 +323,6 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
-
-<br/><br/>
 
 <div align="center">
 
@@ -349,9 +342,6 @@ alt="GitHub Contribution Snake"
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
-
-<br/><br/>
-
 <div align="center">
 
 ## `08 / CURRENT FOCUS`
@@ -405,8 +395,6 @@ alt="GitHub Contribution Snake"
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
-
-<br/><br/>
 
 <div align="center">
 
