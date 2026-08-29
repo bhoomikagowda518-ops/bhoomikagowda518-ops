@@ -20,10 +20,11 @@
   </p>
   
   <!-- Animated Coding GIF -->
- <img
+<img
   src="https://cdnl.iconscout.com/lottie/premium/thumb/female-software-engineer-at-work-animation-gif-download-5628992.gif"
-  width="500"
+  width="420"
   alt="Female Software Engineer Coding Animation"
+  style="transform: scaleX(1.18);"
 />
 </div>
 
