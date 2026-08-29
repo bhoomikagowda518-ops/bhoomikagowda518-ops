@@ -40,9 +40,13 @@
 
 </div>
 
-<br/>
+---
+
+<div align="center">
 
 ## 01 / ABOUT
+
+</div>
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
 
@@ -63,11 +67,13 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
-<br/>
+---
+
+<div align="center">
 
 ## 02 / TECH STACK
 
-<div align="center">
+<br/>
 
 ### Languages
 
@@ -123,11 +129,13 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
-<br/>
+---
+
+<div align="center">
 
 ## 03 / FEATURED PROJECTS
 
-<div align="center">
+<br/>
 
 <table>
 <tr>
@@ -187,11 +195,13 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
+---
+
+<div align="center">
 
 ## 04 / CERTIFICATIONS & LEARNING
 
-<div align="center">
+<br/>
 
 <table>
 <tr>
@@ -235,15 +245,13 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-## `05 / GITHUB ACTIVITY`
+## 05 / GITHUB ACTIVITY
 
 <br/>
-
-<div align="center">
 
 <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bhoomikagowda518-ops&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
 
@@ -255,23 +263,25 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
-<br/><br/>
+---
 
-</div>
+<div align="center">
 
 ## 06 / CONTRIBUTION ACTIVITY
 
-<div align="center">
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
 
 </div>
 
-<br/>
+---
+
+<div align="center">
 
 ## 07 / CONTRIBUTION SNAKE
 
-<div align="center">
+<br/>
 
 <img
 src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
@@ -280,11 +290,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
-
-## 08 / CURRENT FOCUS
+---
 
 <div align="center">
+
+## 08 / CURRENT FOCUS
 
 <table>
 
@@ -328,11 +338,13 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
+---
+
+<div align="center">
 
 ## 09 / CONNECT
 
-<div align="center">
+<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -352,7 +364,7 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/><br/>
+---
 
 <div align="center">
 
