@@ -67,7 +67,7 @@
 </div>
 
 <br/><br/>
-
+<div align="center">
 ## `01 / ABOUT`
 
 </div>
