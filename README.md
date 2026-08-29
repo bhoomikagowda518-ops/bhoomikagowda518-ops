@@ -37,39 +37,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## **About My Journey**
-
 <div align="center">
 
-```python
-bhoomika = {
-    "identity": {
-        "name": "Bhoomika B C",
-        "role": "Computer Science Engineering Student",
-        "specialization": "Cybersecurity",
-        "location": "India 🇮🇳",
-        "graduation": 2029
-    },
+# 👋 Hi, I'm Bhoomika B C
 
-    "current_mission": [
-        "Building an enterprise-style SIEM platform",
-        "Strengthening Linux and networking fundamentals",
-        "Learning detection engineering and security monitoring",
-        "Exploring offensive security fundamentals",
-        "Building practical security tools with Python"
-    ],
+### Computer Science Engineering Student | Cybersecurity
 
-    "focus": [
-        "Cybersecurity",
-        "Security Engineering",
-        "SIEM",
-        "Detection Engineering",
-        "Linux",
-        "Networking"
-    ],
+Building systems. Understanding them. Securing them.
 
-    "learning_philosophy": "Learn → Build → Break → Analyze → Improve"
-}
 </div>
+
 <br/>
 
 I’m a **Computer Science Engineering student specializing in Cybersecurity**, interested in understanding how systems work, where weaknesses come from, and how they can be secured.
@@ -78,7 +55,9 @@ I prefer learning through **building and experimentation** rather than only stud
 
 My long-term goal is to become a strong **security engineer** with practical experience across defensive security, detection, and offensive security fundamentals.
 
-### **Education**
+---
+
+## 🎓 Education
 
 **B.E. Computer Science & Engineering — Cybersecurity**
 
@@ -86,17 +65,21 @@ Sri Siddhartha Institute of Technology · **2029**
 
 **1st Year CGPA:** `9.69 / 10.00`
 
-### **Currently Looking For**
+---
+
+## 🎯 Currently Looking For
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Current Focus Areas**
+## 🛡️ Current Focus Areas
 
 <div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="50%">
 
 ### 🛡️ Security Engineering
@@ -106,13 +89,17 @@ Understanding how systems, networks, applications, and security controls work to
 </td>
 
 <td align="center" width="50%">
-📊 **SIEM & Detection Engineering**
+
+### 📊 SIEM & Detection Engineering
 
 Building an enterprise-style SIEM to understand log collection, analysis, detection, alerting, and threat investigation.
 
 </td>
+
 </tr>
+
 <tr>
+
 <td align="center" width="50%">
 
 ### 🐧 Linux & Networking
@@ -120,6 +107,7 @@ Building an enterprise-style SIEM to understand log collection, analysis, detect
 Strengthening the foundations required to understand real-world systems, traffic, services, and security events.
 
 </td>
+
 <td align="center" width="50%">
 
 ### 🔐 Security Tooling
@@ -127,23 +115,25 @@ Strengthening the foundations required to understand real-world systems, traffic
 Building practical Python-based tools to explore cryptography, hashing, automation, and security concepts.
 
 </td>
+
 </tr>
 </table>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **My Tech Universe**
+## 💻 My Tech Universe
 
 <div align="center">
 
-### **Programming Languages**
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,typescript" alt="Programming Languages"/>
 </p>
 
-### **Security & Systems**
+### Security & Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"/>
@@ -160,14 +150,15 @@ Building practical Python-based tools to explore cryptography, hashing, automati
 <code>Networking</code> ·
 <code>Cryptography</code>
 </p>
-### **Web & Application Development**
+
+### Web & Application Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" alt="Web Technologies"/>
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit"/>
 </p>
 
-### **Development & Tooling**
+### Development & Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
@@ -186,7 +177,7 @@ Building practical Python-based tools to explore cryptography, hashing, automati
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Featured Projects**
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -223,6 +214,7 @@ Includes encryption, decryption, encoding, hashing, password verification, file 
 </a>
 
 <br/><br/>
+
 ### 🌐 Cybersecurity Portfolio
 
 A personal cybersecurity engineering portfolio showcasing my projects, technical interests, learning journey, and work in security engineering.
@@ -241,12 +233,14 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Certifications & Learning**
+## 📜 Certifications & Learning
 
 <div align="center">
 
 <table>
+
 <tr>
+
 <td align="center" width="50%">
 
 <a href="https://www.coursera.org/account/accomplishments/records/HDF2Y27VZOFN">
@@ -262,9 +256,11 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="50%">
 
 <a href="https://www.credly.com/badges/cdb2e957-2e2b-48d1-81c6-1b4d64530bb5/linked_in_profile">
@@ -278,7 +274,9 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 <img src="https://img.shields.io/badge/IBM-Python%20101-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="IBM Python 101"/>
 
 </td>
+
 </tr>
+
 </table>
 
 ### IEEE SSIT WIE-AG
@@ -289,7 +287,7 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **GitHub Activity**
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -307,7 +305,7 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Contribution Activity**
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -317,7 +315,7 @@ A personal cybersecurity engineering portfolio showcasing my projects, technical
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Contribution Snake**
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -330,11 +328,12 @@ alt="GitHub Contribution Snake"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## **Current Focus**
+## 🎯 Current Focus
 
 <div align="center">
 
 <table>
+
 <tr>
 <th>Learning</th>
 <th>Building</th>
@@ -376,7 +375,8 @@ alt="GitHub Contribution Snake"
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-## **Let's Connect & Collaborate**
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -393,7 +393,7 @@ alt="GitHub Contribution Snake"
 </a>
 
 <a href="https://bhoomikabc.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
