@@ -424,19 +424,12 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
-
-<br/><br/>
-
 ### Build systems. Understand them. Make them better.
-
-<br/>
-
-*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
 
 <br/><br/>
 
+"Security is not just about finding vulnerabilities — it's about understanding why they exist."
+
+<br/><br/>
