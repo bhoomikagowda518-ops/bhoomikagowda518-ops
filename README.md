@@ -1,38 +1,30 @@
+# 
 <div align="center">
-
-  <!-- Header -->
-  <img width="100%" height="300"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=300&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18"
-    alt="Bhoomika B C"/>
-
-  <!-- Typing Animation -->
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&center=true&vCenter=true&width=800&height=90&duration=4000&pause=1000&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work"
-    alt="Typing SVG"/>
-
-  <!-- Introduction -->
-  <h2 style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Inter', sans-serif; font-size: 22px; margin: 20px 0 15px 0;">
+  
+  <!-- Header with animated gradient -->
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=300&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18"/>
+  
+  <!-- Dynamic Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=850&height=70&duration=4000&pause=1000&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
+  
+  <!-- Professional Introduction -->
+  <h2 style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Inter', sans-serif; margin: 30px 0 20px 0;">
     Cybersecurity Engineering Student | India
   </h2>
-
-  <!-- Links -->
-  <p>
-    <a href="https://bhoomikabc.vercel.app/">
+  
+  <!-- Portfolio Link -->
+  <p style="margin: 25px 0;">
+    <a href="https://bhoomikabc.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1F2937" alt="Portfolio"/>
     </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/bhoomikabc2008">
-      <img src="https://img.shields.io/badge/LinkedIn-Bhoomika%20B%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/bhoomikagowda518-ops">
-      <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
   </p>
-
+  
+  <!-- Animated Coding GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400" style="margin: 20px 0; border-radius: 20px;"/>
+  
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <div align="center">
   
 ## `01 / ABOUT`
