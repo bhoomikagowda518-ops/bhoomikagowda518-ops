@@ -22,7 +22,7 @@
   <!-- Animated Coding GIF -->
  <img
   src="https://cdnl.iconscout.com/lottie/premium/thumb/female-software-engineer-at-work-animation-gif-download-5628992.gif"
-  width="420"
+  width="480"
   alt="Female Software Engineer Coding Animation"
 />
 </div>
