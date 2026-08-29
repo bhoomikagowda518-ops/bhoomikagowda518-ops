@@ -374,6 +374,10 @@ alt="GitHub Contribution Snake"
 <img src="https://img.shields.io/badge/GitHub-bhoomikagowda518--ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://www.instagram.com/bhoomika_bc_/">
+<img src="https://img.shields.io/badge/Instagram-bhoomika__bc__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
