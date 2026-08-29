@@ -42,6 +42,10 @@
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 ## 01 / ABOUT
 
 Computer Science Engineering student specializing in **Cybersecurity**, focused on building practical security systems and understanding how they work from the ground up.
@@ -62,6 +66,10 @@ Sri Siddhartha Institute of Technology · **2029**
 ### Currently Looking For
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -122,6 +130,10 @@ Sri Siddhartha Institute of Technology · **2029**
 </p>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -189,11 +201,16 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 ## 04 / CERTIFICATIONS & LEARNING
 
 <div align="center">
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
@@ -231,9 +248,14 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 </td>
 
 </tr>
+
 </table>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -241,9 +263,15 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -251,9 +279,15 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="100%" alt="Contribution Graph"/>
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -261,12 +295,18 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
+<br/>
+
 <img
 src="https://raw.githubusercontent.com/bhoomikagowda518-ops/bhoomikagowda518-ops/gh-pages/github-contribution-grid-snake-dark.svg"
 alt="GitHub Contribution Snake"
 />
 
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
@@ -318,9 +358,15 @@ alt="GitHub Contribution Snake"
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 ## 09 / CONNECT
 
 <div align="center">
+
+<br/>
 
 <a href="mailto:bhoomikagowda518@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-bhoomikagowda518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -342,9 +388,15 @@ alt="GitHub Contribution Snake"
 
 <br/><br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
 <div align="center">
 
-### Build systems. Understand them. Make them better.
+## Build systems. Understand them. Make them better.
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:6D28D9,100:312E81&height=130&section=footer" width="100%" alt="Footer"/>
 
