@@ -40,7 +40,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -67,7 +67,11 @@ Sri Siddhartha Institute of Technology · **2029**
 
 `Cybersecurity Internships` · `Security Engineering` · `Detection Engineering` · `Security Research` · `Open Source`
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -129,7 +133,11 @@ Sri Siddhartha Institute of Technology · **2029**
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -195,7 +203,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -245,7 +257,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -263,7 +279,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -275,7 +295,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -290,7 +314,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -338,7 +366,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -364,7 +396,11 @@ alt="GitHub Contribution Snake"
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+<br/><br/>
 
 <div align="center">
 
