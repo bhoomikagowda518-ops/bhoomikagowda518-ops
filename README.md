@@ -377,10 +377,6 @@ alt="GitHub Contribution Snake"
 <a href="https://bhoomikabc.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.instagram.com/bhoomika_bc_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
 </div>
 
 <br/><br/>
