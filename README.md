@@ -20,7 +20,8 @@
   </p>
   
   <!-- Animated Coding GIF -->
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" width="400" style="margin: 20px 0; border-radius: 20px;"/>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
