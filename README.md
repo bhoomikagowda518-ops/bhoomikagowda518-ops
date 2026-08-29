@@ -30,16 +30,42 @@
 
 <br/><br/>
 
+<table>
+<tr>
+
+<td align="center" valign="middle">
+
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 <br/><br/>
 
+<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
+
+</td>
+
+<td width="40"></td>
+
+<td align="center" valign="middle">
+
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
 
+</td>
+
+</tr>
+</table>
+
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ## 01 / ABOUT
@@ -67,7 +93,11 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -133,7 +163,11 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -203,7 +237,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -257,7 +295,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -279,7 +321,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -295,7 +341,11 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -314,13 +364,19 @@ alt="GitHub Contribution Snake"
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
 <div align="center">
 
 ## 08 / CURRENT FOCUS
+
+<br/>
 
 <table>
 
@@ -366,7 +422,11 @@ alt="GitHub Contribution Snake"
 
 <br/>
 
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+
+</div>
 
 <br/>
 
@@ -394,13 +454,13 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/>
+<br/><br/>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
 
 <br/><br/>
-
-<div align="center">
 
 ### Build systems. Understand them. Make them better.
 
