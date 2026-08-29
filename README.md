@@ -388,9 +388,10 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
   
+ <div align="center">
+  
   <!-- Footer -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&animation=twinkling"/>
-
+  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=200&section=footer&animation=twinkling"/> 
 <br/><br/>
 
 "Security is not just about finding vulnerabilities — it's about understanding why they exist."
