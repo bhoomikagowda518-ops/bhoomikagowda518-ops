@@ -415,6 +415,12 @@ alt="GitHub Contribution Snake"
 <a href="https://github.com/bhoomikagowda518-ops" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://www.instagram.com/bhoomika_bc_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:bhoomikagowda518@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 <br><br>
 
