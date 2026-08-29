@@ -392,8 +392,29 @@ alt="GitHub Contribution Snake"
   
   <!-- Footer -->
   <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=200&section=footer&animation=twinkling"/> 
-<br/><br/>
+  <br><br>
+## Thanks for visiting!
 
-"Security is not just about finding vulnerabilities — it's about understanding why they exist."
+*"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
 
-<br/><br/>
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+<!-- Social Links Footer -->
+<a href="https://bhoomikabc.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-6D28D9?style=flat-square&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bhoomikabc2008" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/bhoomikagowda518-ops" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+</div>
