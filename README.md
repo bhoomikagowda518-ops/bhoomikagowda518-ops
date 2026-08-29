@@ -30,24 +30,22 @@
 
 <br/><br/>
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" valign="middle">
 
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
 
 </td>
 
-<td width="40"></td>
+<td width="35"></td>
 
 <td align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230" alt="Coding Animation"/>
 
 </td>
 
@@ -60,7 +58,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -68,7 +66,7 @@
 
 <div align="center">
 
-## 01 / ABOUT
+## `01 / ABOUT`
 
 </div>
 
@@ -95,7 +93,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -103,7 +101,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## 02 / TECH STACK
+## `02 / TECH STACK`
 
 <br/>
 
@@ -165,7 +163,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -173,7 +171,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## 03 / FEATURED PROJECTS
+## `03 / FEATURED PROJECTS`
 
 <br/>
 
@@ -239,7 +237,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -247,7 +245,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## 04 / CERTIFICATIONS & LEARNING
+## `04 / CERTIFICATIONS & LEARNING`
 
 <br/>
 
@@ -297,7 +295,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -305,7 +303,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## 05 / GITHUB ACTIVITY
+## `05 / GITHUB ACTIVITY`
 
 <br/>
 
@@ -323,7 +321,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -331,7 +329,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## 06 / CONTRIBUTION ACTIVITY
+## `06 / CONTRIBUTION ACTIVITY`
 
 <br/>
 
@@ -343,7 +341,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -351,7 +349,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## 07 / CONTRIBUTION SNAKE
+## `07 / CONTRIBUTION SNAKE`
 
 <br/>
 
@@ -366,7 +364,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -374,7 +372,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-## 08 / CURRENT FOCUS
+## `08 / CURRENT FOCUS`
 
 <br/>
 
@@ -424,7 +422,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
 
 </div>
 
@@ -432,7 +430,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-## 09 / CONNECT
+## `09 / CONNECT`
 
 <br/>
 
@@ -454,13 +452,17 @@ alt="GitHub Contribution Snake"
 
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Section Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Divider"/>
+
+</div>
 
 <br/><br/>
+
+<div align="center">
 
 ### Build systems. Understand them. Make them better.
 
