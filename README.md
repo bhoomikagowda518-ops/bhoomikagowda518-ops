@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Header with animated gradient -->
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=300&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18"/>
+  <img width="100%" height="340" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=340&section=header&text=Bhoomika%20B%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineering%20Student%20%7C%20Security%20Systems%20Builder&descAlignY=55&descSize=18"/>
   
   <!-- Dynamic Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&center=true&vCenter=true&width=850&height=70&duration=4000&pause=1000&color=A78BFA&background=00000000&multiline=false&lines=Building+Security+Systems;Exploring+SIEM+%26+Detection+Engineering;Learning+Cybersecurity+Through+Hands-On+Work" alt="Typing SVG"/>
