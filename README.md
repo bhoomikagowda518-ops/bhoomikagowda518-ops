@@ -8,25 +8,30 @@
 
 <br/><br/>
 
-<a href="https://bhoomikabc.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/>
-</a>
+<a href="https://bhoomikabc.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/bhoomikabc2008">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/bhoomikabc2008"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://www.instagram.com/bhoomika_bc_/">
-<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/bhoomika_bc_/"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
 &nbsp;
-<a href="mailto:bhoomikagowda518@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-</a>
+<a href="mailto:bhoomikagowda518@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
 &nbsp;
-<a href="https://github.com/bhoomikagowda518-ops">
-<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-</a>
+<a href="https://github.com/bhoomikagowda518-ops"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/></a>
+
+<br/><br/>
+</p>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding Animation"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&color=6D28D9&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Visitors"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/bhoomikagowda518-ops?color=6D28D9&style=for-the-badge&labelColor=312E81&label=FOLLOWERS" alt="Followers"/>
+
+</div>
 
 <br/><br/>
 
