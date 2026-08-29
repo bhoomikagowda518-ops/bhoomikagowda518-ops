@@ -237,15 +237,27 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <br/>
 
-## 05 / GITHUB ACTIVITY
+<div align="center">
+
+## `05 / GITHUB ACTIVITY`
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bhoomikagowda518-ops&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=38BDF8&fire=A78BFA&currStreakLabel=A78BFA" width="70%" alt="GitHub Contribution Streak"/>
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bhoomikagowda518-ops&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=bhoomikagowda518-ops&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+
+<br/>
+
+<img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bhoomikagowda518-ops&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
 
 </div>
 
-<br/>
+<br/><br/>
+
+</div>
 
 ## 06 / CONTRIBUTION ACTIVITY
 
