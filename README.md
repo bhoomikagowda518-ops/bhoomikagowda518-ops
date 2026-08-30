@@ -249,7 +249,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `05 / GITHUB ACTIVITY`
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="32px"> GITHUB ACTIVITY
 
 <br/>
 
