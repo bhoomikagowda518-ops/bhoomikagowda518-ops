@@ -269,7 +269,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## <img src="https://api.iconify.design/line-md:chart.svg" width="32px"> CONTRIBUTION ACTIVITY
+## <img src="https://api.iconify.design/ant-design:line-chart-outlined.svg" width="32px"> CONTRIBUTION ACTIVITY
 
 <br/>
 
