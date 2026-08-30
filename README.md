@@ -285,7 +285,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/code-loop.svg" width="32px"> CONTRIBUTION SNAKE
+## <img src="https://api.iconify.design/bxl:git.svg" width="32px"> CONTRIBUTION SNAKE
 
 <br/>
 
