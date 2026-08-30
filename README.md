@@ -391,19 +391,22 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
   
- <div align="center">
-  
-  <!-- Footer -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=200&section=footer&animation=twinkling"/> 
-  <br><br>
-  
- ## Thanks for visiting! 
+<!-- Footer -->
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:2563EB&height=200&section=footer&animation=twinkling"/>
+
+<br><br>
+
+## Thanks for visiting!
 
 *"Security is not just about finding vulnerabilities — it's about understanding why they exist."*
+
+<br>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 <br><br>
+
+-Built with ❤️ by Bhoomika B C
 
 </div>
