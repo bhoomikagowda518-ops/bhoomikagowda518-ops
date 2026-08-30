@@ -275,12 +275,10 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/>
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomikagowda518-ops"
+src="https://github-readme-activity-graph-hkq3d44n4-bhoomika-s-portfolio.vercel.app/graph?username=bhoomikagowda518-ops&bg_color=0D1117&color=A78BFA&line=38BDF8&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night"
 width="100%"
 alt="Contribution Activity Graph"
 />
-
-</div>
 
 <br/><br/>
 
