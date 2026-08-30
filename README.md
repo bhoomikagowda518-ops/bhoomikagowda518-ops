@@ -193,7 +193,8 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/certificate.svg" width="32px"> CERTIFICATIONS & LEARNING
+## <img src="https://api.iconify.design/line-md:certificate.svg" width="32px"> CERTIFICATIONS & LEARNING
+
 <br/>
 
 <table>
