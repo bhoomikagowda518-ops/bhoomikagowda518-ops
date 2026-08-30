@@ -358,7 +358,8 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-## `09 / CONNECT`
+## 🌐Connect with me  
+
 
 <br/>
 
