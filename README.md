@@ -407,12 +407,8 @@ alt="GitHub Contribution Snake"
 </div>
 <br><br>
 
-<table width="100%">
-<tr>
-<td align="left">
+<div align="right">
 
 -Built with ❤️ by Bhoomika B C
 
-</td>
-</tr>
-</table>
+</div>
