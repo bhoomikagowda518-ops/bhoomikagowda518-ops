@@ -122,7 +122,7 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32px"> FEATURED PROJECTS
+## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/folder.svg" width="32px"> FEATURED PROJECTS
 
 
 <br/>
