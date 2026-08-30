@@ -58,7 +58,6 @@ Sri Siddhartha Institute of Technology · **2029**
 <div align="center">
 
 ## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/code.svg" width="32px"> TECH STACK
-
 <br/>
 
 ### Languages
