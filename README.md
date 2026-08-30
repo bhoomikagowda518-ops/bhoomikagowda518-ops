@@ -124,7 +124,8 @@ Sri Siddhartha Institute of Technology · **2029**
 
 <div align="center">
 
-## `03 / FEATURED PROJECTS`
+## 🚀 03 / FEATURED PROJECTS <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="32px">
+
 
 <br/>
 
