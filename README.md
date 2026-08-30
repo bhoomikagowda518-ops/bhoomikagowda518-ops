@@ -281,10 +281,8 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 <br/><br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
-</div>
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 
 ## <img src="https://api.iconify.design/bxl:git.svg" width="32px"> CONTRIBUTION SNAKE
 
@@ -302,6 +300,7 @@ alt="GitHub Contribution Snake"
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Section Divider"/>
 </div>
+
 <div align="center">
 
 ## <img src="https://api.iconify.design/clarity:bullseye-line.svg" width="32px"> CURRENT FOCUS
