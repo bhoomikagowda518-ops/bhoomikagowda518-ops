@@ -195,7 +195,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## `04 / CERTIFICATIONS & LEARNING`
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="32px"> CERTIFICATIONS & LEARNING
 
 <br/>
 
