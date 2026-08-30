@@ -357,8 +357,7 @@ alt="GitHub Contribution Snake"
 
 <div align="center">
 
-## <img src="https://api.iconify.design/entypo:email.svg" width="32px"> CONNECT
-
+## <img src="https://api.iconify.design/bitcoin-icons:email-filled.svg" width="32px"> CONNECT
 
 <br/>
 
