@@ -303,7 +303,7 @@ alt="GitHub Contribution Snake"
 </div>
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/target.svg" width="32px"> CURRENT FOCUS
+## <img src="https://api.iconify.design/clarity:bullseye-line.svg" width="32px"> CURRENT FOCUS
 
 <br/>
 
