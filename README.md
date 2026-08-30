@@ -356,8 +356,8 @@ alt="GitHub Contribution Snake"
 </div>
 
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/email.svg" width="32px"> CONNECT 
+
+## <img src="https://api.iconify.design/entypo:email.svg" width="32px"> CONNECT
 
 
 <br/>
