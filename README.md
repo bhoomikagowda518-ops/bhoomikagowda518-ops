@@ -268,7 +268,7 @@ Python · Cryptography · AES-GCM · Fernet · SHA-256 · bcrypt
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/chart.svg" width="32px"> CONTRIBUTION ACTIVITY
+## <img src="https://raw.githubusercontent.com/cyberalien/line-md/master/svg/activity.svg" width="32px"> CONTRIBUTION ACTIVITY
 
 <br/>
 
