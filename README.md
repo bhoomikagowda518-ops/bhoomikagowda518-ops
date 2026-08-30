@@ -405,5 +405,14 @@ alt="GitHub Contribution Snake"
 <img src="https://komarev.com/ghpvc/?username=bhoomikagowda518-ops&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views"/>
 
 </div>
+<br><br>
+
+<table width="100%">
+<tr>
+<td align="left">
 
 -Built with ❤️ by Bhoomika B C
+
+</td>
+</tr>
+</table>
